@@ -1,0 +1,52 @@
+﻿ClassStr,MedicationStr,Disease
+Sulfonylurea Compounds,chlorpropamide,T2D
+Sulfonylurea Compounds,glyburide,T2D
+Sulfonylurea Compounds,glipizide,T2D
+Sulfonylurea Compounds,tolazamide,T2D
+Sulfonylurea Compounds,tolbutamide,T2D
+Sulfonylurea Compounds,glimepiride,T2D
+Meglitinide,acarbose,T2D
+Meglitinide,repaglinide,T2D
+Meglitinide,nateglinide,T2D
+Glucosidase Inhibitor,acarbose,T2D
+Glucosidase Inhibitor,miglitol,T2D
+Thiazolidinediones,pioglitazone,T2D
+Thiazolidinediones,rosiglitazone,T2D
+Thiazolidinediones,pioglitazone hydrochloride,T2D
+Insulin,"insulin aspart, human",T2D
+Insulin,"insulin, regular, human",T2D
+Insulin,insulin glargine,T2D
+Insulin,insulin degludec,T2D
+"insulin, regular, human","insulin aspart, human",T2D
+"insulin, regular, human",insulin lispro,T2D
+"insulin, regular, human","insulin isophane, human",T2D
+"insulin, regular, human","insulin, regular, human",T2D
+"insulin, regular, human",insulin glargine,T2D
+"insulin, regular, human","insulin lispro protamine, human",T2D
+"insulin, regular, human","insulin aspart protamine, human",T2D
+"insulin, regular, human","insulin glulisine, human",T2D
+Product containing glucagon-like peptide 1 receptor agonist (product),exenatide,T2D
+Product containing glucagon-like peptide 1 receptor agonist (product),albiglutide,T2D
+Product containing glucagon-like peptide 1 receptor agonist (product),lixisenatide,T2D
+Product containing glucagon-like peptide 1 receptor agonist (product),dulaglutide,T2D
+Incretins,exenatide,T2D
+Incretins,saxagliptin,T2D
+Incretins,sitagliptin phosphate,T2D
+Incretins,alogliptin,T2D
+Incretins,linagliptin,T2D
+Pharmaceutical Preparations,pramlintide,T2D
+Pharmaceutical Preparations,colesevelam,T2D
+Pharmaceutical Preparations,insulin degludec,T2D
+Dipeptidyl-Peptidase IV Inhibitors,sitagliptin,T2D
+Dipeptidyl-Peptidase IV Inhibitors,saxagliptin,T2D
+Dipeptidyl-Peptidase IV Inhibitors,sitagliptin phosphate,T2D
+Dipeptidyl-Peptidase IV Inhibitors,alogliptin,T2D
+Dipeptidyl-Peptidase IV Inhibitors,alogliptin benzoate,T2D
+Dipeptidyl-Peptidase IV Inhibitors,saxagliptin hydrochloride,T2D
+Dipeptidyl-Peptidase IV Inhibitors,linagliptin,T2D
+Sodium-Glucose Transporter 2 Inhibitors,dapagliflozin,T2D
+Sodium-Glucose Transporter 2 Inhibitors,canagliflozin,T2D
+Sodium-Glucose Transporter 2 Inhibitors,canagliflozin anhydrous,T2D
+Sodium-Glucose Transporter 2 Inhibitors,empagliflozin,T2D
+Sodium-Glucose Transporter 2 Inhibitors,dapagliflozin propanediol,T2D
+other,metformin hydrochloride,T2D

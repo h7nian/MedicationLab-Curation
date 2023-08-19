@@ -1,0 +1,69 @@
+﻿ClassStr,MedicationStr,Disease
+Analgesics,aspirin,RA
+Analgesics,flurbiprofen,RA
+Analgesics,choline salicylate,RA
+azathioprine,azathioprine,RA
+azathioprine,azathioprine sodium,RA
+Angiotensin-Converting Enzyme Inhibitors,captopril,RA
+Angiotensin-Converting Enzyme Inhibitors,enalapril,RA
+Angiotensin-Converting Enzyme Inhibitors,enalaprilat,RA
+Angiotensin-Converting Enzyme Inhibitors,enalapril maleate,RA
+Angiotensin-Converting Enzyme Inhibitors,enalaprilat anhydrous,RA
+chloroquine,chloroquine,RA
+chloroquine,chloroquine phosphate,RA
+cyclosporine,cyclosporine,RA
+cyclosporine,"cyclosporine, modified",RA
+diclofenac,diclofenac,RA
+diclofenac,diclofenac potassium,RA
+diclofenac,diclofenac sodium,RA
+Pharmaceutical Preparations,diclofenac,RA
+Pharmaceutical Preparations,fish oils,RA
+Pharmaceutical Preparations,gold,RA
+Pharmaceutical Preparations,indomethacin,RA
+Pharmaceutical Preparations,piroxicam,RA
+Pharmaceutical Preparations,sulindac,RA
+Pharmaceutical Preparations,tolmetin,RA
+Pharmaceutical Preparations,choline salicylate,RA
+Pharmaceutical Preparations,etodolac,RA
+Cyclooxygenase 2 Inhibitors,fenoprofen,RA
+Cyclooxygenase 2 Inhibitors,ibuprofen,RA
+Cyclooxygenase 2 Inhibitors,naproxen,RA
+Cyclooxygenase 2 Inhibitors,etodolac,RA
+Cyclooxygenase 2 Inhibitors,nabumetone,RA
+Cyclooxygenase 2 Inhibitors,ibuprofen lysine,RA
+Cyclooxygenase 2 Inhibitors,meloxicam,RA
+Cyclooxygenase 2 Inhibitors,celecoxib,RA
+Cyclooxygenase 2 Inhibitors,naproxen sodium,RA
+Cyclooxygenase 2 Inhibitors,"ibuprofen, sodium salt",RA
+Cyclooxygenase 2 Inhibitors,fenoprofen calcium,RA
+methotrexate,methotrexate,RA
+methotrexate,methotrexate sodium,RA
+Anti-Inflammatory Agents,sulfasalazine,RA
+Anti-Inflammatory Agents,adalimumab,RA
+Anti-Inflammatory Agents,golimumab,RA
+Monoclonal Antibodies,rituximab,RA
+Monoclonal Antibodies,infliximab,RA
+Monoclonal Antibodies,adalimumab,RA
+Monoclonal Antibodies,tocilizumab,RA
+Monoclonal Antibodies,certolizumab pegol,RA
+Monoclonal Antibodies,golimumab,RA
+Monoclonal Antibodies,sarilumab,RA
+rituximab,rituximab,RA
+rituximab,rituximab-abbs,RA
+rituximab,rituximab-pvvr,RA
+rituximab,rituximab-arrx,RA
+infliximab,infliximab,RA
+infliximab,infliximab-dyyb,RA
+infliximab,infliximab-abda,RA
+infliximab,infliximab-axxq,RA
+Fusion protein,etanercept,RA
+Fusion protein,abatacept,RA
+Janus kinase inhibitor,tofacitinib,RA
+Janus kinase inhibitor,tofacitinib citrate,RA
+Janus kinase inhibitor,baricitinib,RA
+Janus kinase inhibitor,upadacitinib,RA
+other,penicillamine,RA
+other,thalidomide,RA
+other,leflunomide,RA
+other,anakinra,RA
+other,hydroxychloroquine sulfate,RA

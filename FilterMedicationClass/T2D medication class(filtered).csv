@@ -1,0 +1,1742 @@
+﻿MedicationCui,MedicationStr,ClassCui,ClassStr,ClassCui(Synonym),ClassStr(Synonym)
+C0008287,chlorpropamide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0061323,glimepiride
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0061328,gliquidone
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0061329,glisolamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0061330,glisoxepide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0062136,HB 180
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0067547,LY 181984
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0075577,sulfometuron methyl
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0076794,tolcyclamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0076842,tosifen
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0128022,methyl bensulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0165187,sulofenur
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0243356,glipalamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0295215,LY 219703
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0298476,triasulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0350998,glibornuride
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0525682,glyoxamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0535610,hydroxyglimepiride
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0536915,BM 27
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0537582,LY 237868
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0600818,chlorohexamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0601102,iodopropamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0603303,glicaramide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0604912,anisilbutamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0606413,CS 476
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0607456,glyclopyramide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0608276,metahexamide-isothiocyanate
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0610362,chlorcyclamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0617481,4-chlorobenzenesulfonylurea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0636177,SPC 5002
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0637660,4-polyethylene glycol-sulfonylurea-piretanide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0637662,4-dextran-sulfonylurea-piretanide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0640075,AHR 12234
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0641894,1-(piperidyl)-3-(4-tolylsulfonyl)urea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0661195,4-tolylsulfonylurea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0663351,metahexamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0675106,chlorimuron ethyl
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0909420,BM 500
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0913447,4-(1-acetoxyethyl)-N-(cyclohexylcarbamoyl)benzenesulfonamide
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0960382,BM 531
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0960569,flupyrsulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0961253,thifensulfuron methyl
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0962422,nicosulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C0963998,SM 19712
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1097002,BM 567
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1122100,poly(N-isopropylacrylamide-co-sulfonylurea)
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1122455,S-(4-chlorophenylcarbamoyl)glutathione
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1122456,N-acetyl-S-(4-chlorophenylcarbamoyl)cysteine
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1137295,prosulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1172832,cinosulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1260278,N-terbutyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1311467,flazasulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1313369,N-(4-chloro-2-mercapto-5-methylbenzenesulphonyl)urea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1528620,SU-118
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1565112,monosulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1569105,N-n-pentyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1623338,poly(L-lysine)-g-sulfonylurea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1703322,amidosulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C1959075,mesosulfuron-methyl
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C2002475,N-tert-butyl-N'-(2-(3-'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C2605604,1-phenyl-3-(coumarin-6-yl)sulfonylurea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C2606412,halosulfuron methyl
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C2742355,"1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethoxyphenoxysulfonyl)urea"
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C3180968,MF 592
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C3536898,Sulfonylurea [EPC]
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C3659805,ethyl 2-(N-((4-iodo-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoate
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C3851502,5-cyanobenzenesulfonylurea
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C4078745,G004 compound
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C4278621,grapiprant
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C4307594,iofensulfuron
+C0008287,chlorpropamide,C0038766,Sulfonylurea Compounds,C5435066,flucetosulfuron
+C0017628,glyburide,C0017628,glyburide,C0081232,5-iodo-2-hydroxyglyburide
+C0017628,glyburide,C0017628,glyburide,C0083044,iodoglibenclamide
+C0017628,glyburide,C0017628,glyburide,C0257049,4-azido-5-iodosalicyloylglibenclamide
+C0017628,glyburide,C0017628,glyburide,C0601775,Suguan
+C0017628,glyburide,C0017628,glyburide,C0607283,71-5W
+C0017628,glyburide,C0017628,glyburide,C0647032,3-hydroxyglibenclamide
+C0017628,glyburide,C0017628,glyburide,C0647033,4-hydroxyglibenclamide
+C0017628,glyburide,C0017628,glyburide,C0700712,Micronase
+C0017628,glyburide,C0017628,glyburide,C0700718,Diabeta
+C0017628,glyburide,C0017628,glyburide,C0766713,BM 208
+C0017628,glyburide,C0017628,glyburide,C0766716,BM 225
+C0017628,glyburide,C0017628,glyburide,C0939344,Glucovance
+C0017628,glyburide,C0017628,glyburide,C2351695,4-transhydroxy glyburide
+C0017628,glyburide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0061323,glimepiride
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0061328,gliquidone
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0061329,glisolamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0061330,glisoxepide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0062136,HB 180
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0067547,LY 181984
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0075577,sulfometuron methyl
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0076794,tolcyclamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0076842,tosifen
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0128022,methyl bensulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0165187,sulofenur
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0243356,glipalamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0295215,LY 219703
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0298476,triasulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0350998,glibornuride
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0525682,glyoxamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0535610,hydroxyglimepiride
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0536915,BM 27
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0537582,LY 237868
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0600818,chlorohexamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0601102,iodopropamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0603303,glicaramide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0604912,anisilbutamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0606413,CS 476
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0607456,glyclopyramide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0608276,metahexamide-isothiocyanate
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0610362,chlorcyclamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0617481,4-chlorobenzenesulfonylurea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0636177,SPC 5002
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0637660,4-polyethylene glycol-sulfonylurea-piretanide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0637662,4-dextran-sulfonylurea-piretanide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0640075,AHR 12234
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0641894,1-(piperidyl)-3-(4-tolylsulfonyl)urea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0661195,4-tolylsulfonylurea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0663351,metahexamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0675106,chlorimuron ethyl
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0909420,BM 500
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0913447,4-(1-acetoxyethyl)-N-(cyclohexylcarbamoyl)benzenesulfonamide
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0960382,BM 531
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0960569,flupyrsulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0961253,thifensulfuron methyl
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0962422,nicosulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C0963998,SM 19712
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1097002,BM 567
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1122100,poly(N-isopropylacrylamide-co-sulfonylurea)
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1122455,S-(4-chlorophenylcarbamoyl)glutathione
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1122456,N-acetyl-S-(4-chlorophenylcarbamoyl)cysteine
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1137295,prosulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1172832,cinosulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1260278,N-terbutyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1311467,flazasulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1313369,N-(4-chloro-2-mercapto-5-methylbenzenesulphonyl)urea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1528620,SU-118
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1565112,monosulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1569105,N-n-pentyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1623338,poly(L-lysine)-g-sulfonylurea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1703322,amidosulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C1959075,mesosulfuron-methyl
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C2002475,N-tert-butyl-N'-(2-(3-'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C2605604,1-phenyl-3-(coumarin-6-yl)sulfonylurea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C2606412,halosulfuron methyl
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C2742355,"1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethoxyphenoxysulfonyl)urea"
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C3180968,MF 592
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C3536898,Sulfonylurea [EPC]
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C3659805,ethyl 2-(N-((4-iodo-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoate
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C3851502,5-cyanobenzenesulfonylurea
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C4078745,G004 compound
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C4278621,grapiprant
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C4307594,iofensulfuron
+C0017628,glyburide,C0038766,Sulfonylurea Compounds,C5435066,flucetosulfuron
+C0017642,glipizide,C0017642,glipizide,C0701228,Glucotrol
+C0017642,glipizide,C0017642,glipizide,C1170394,Metaglip
+C0017642,glipizide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0061323,glimepiride
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0061328,gliquidone
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0061329,glisolamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0061330,glisoxepide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0062136,HB 180
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0067547,LY 181984
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0075577,sulfometuron methyl
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0076794,tolcyclamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0076842,tosifen
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0128022,methyl bensulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0165187,sulofenur
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0243356,glipalamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0295215,LY 219703
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0298476,triasulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0350998,glibornuride
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0525682,glyoxamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0535610,hydroxyglimepiride
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0536915,BM 27
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0537582,LY 237868
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0600818,chlorohexamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0601102,iodopropamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0603303,glicaramide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0604912,anisilbutamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0606413,CS 476
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0607456,glyclopyramide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0608276,metahexamide-isothiocyanate
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0610362,chlorcyclamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0617481,4-chlorobenzenesulfonylurea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0636177,SPC 5002
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0637660,4-polyethylene glycol-sulfonylurea-piretanide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0637662,4-dextran-sulfonylurea-piretanide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0640075,AHR 12234
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0641894,1-(piperidyl)-3-(4-tolylsulfonyl)urea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0661195,4-tolylsulfonylurea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0663351,metahexamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0675106,chlorimuron ethyl
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0909420,BM 500
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0913447,4-(1-acetoxyethyl)-N-(cyclohexylcarbamoyl)benzenesulfonamide
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0960382,BM 531
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0960569,flupyrsulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0961253,thifensulfuron methyl
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0962422,nicosulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C0963998,SM 19712
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1097002,BM 567
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1122100,poly(N-isopropylacrylamide-co-sulfonylurea)
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1122455,S-(4-chlorophenylcarbamoyl)glutathione
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1122456,N-acetyl-S-(4-chlorophenylcarbamoyl)cysteine
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1137295,prosulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1172832,cinosulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1260278,N-terbutyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1311467,flazasulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1313369,N-(4-chloro-2-mercapto-5-methylbenzenesulphonyl)urea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1528620,SU-118
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1565112,monosulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1569105,N-n-pentyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1623338,poly(L-lysine)-g-sulfonylurea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1703322,amidosulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C1959075,mesosulfuron-methyl
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C2002475,N-tert-butyl-N'-(2-(3-'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C2605604,1-phenyl-3-(coumarin-6-yl)sulfonylurea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C2606412,halosulfuron methyl
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C2742355,"1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethoxyphenoxysulfonyl)urea"
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C3180968,MF 592
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C3536898,Sulfonylurea [EPC]
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C3659805,ethyl 2-(N-((4-iodo-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoate
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C3851502,5-cyanobenzenesulfonylurea
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C4078745,G004 compound
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C4278621,grapiprant
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C4307594,iofensulfuron
+C0017642,glipizide,C0038766,Sulfonylurea Compounds,C5435066,flucetosulfuron
+C0025598,metformin,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0040372,tolazamide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0061323,glimepiride
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0061328,gliquidone
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0061329,glisolamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0061330,glisoxepide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0062136,HB 180
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0067547,LY 181984
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0075577,sulfometuron methyl
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0076794,tolcyclamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0076842,tosifen
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0128022,methyl bensulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0165187,sulofenur
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0243356,glipalamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0295215,LY 219703
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0298476,triasulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0350998,glibornuride
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0525682,glyoxamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0535610,hydroxyglimepiride
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0536915,BM 27
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0537582,LY 237868
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0600818,chlorohexamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0601102,iodopropamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0603303,glicaramide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0604912,anisilbutamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0606413,CS 476
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0607456,glyclopyramide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0608276,metahexamide-isothiocyanate
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0610362,chlorcyclamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0617481,4-chlorobenzenesulfonylurea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0636177,SPC 5002
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0637660,4-polyethylene glycol-sulfonylurea-piretanide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0637662,4-dextran-sulfonylurea-piretanide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0640075,AHR 12234
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0641894,1-(piperidyl)-3-(4-tolylsulfonyl)urea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0661195,4-tolylsulfonylurea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0663351,metahexamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0675106,chlorimuron ethyl
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0909420,BM 500
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0913447,4-(1-acetoxyethyl)-N-(cyclohexylcarbamoyl)benzenesulfonamide
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0960382,BM 531
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0960569,flupyrsulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0961253,thifensulfuron methyl
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0962422,nicosulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C0963998,SM 19712
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1097002,BM 567
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1122100,poly(N-isopropylacrylamide-co-sulfonylurea)
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1122455,S-(4-chlorophenylcarbamoyl)glutathione
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1122456,N-acetyl-S-(4-chlorophenylcarbamoyl)cysteine
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1137295,prosulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1172832,cinosulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1260278,N-terbutyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1311467,flazasulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1313369,N-(4-chloro-2-mercapto-5-methylbenzenesulphonyl)urea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1528620,SU-118
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1565112,monosulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1569105,N-n-pentyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1623338,poly(L-lysine)-g-sulfonylurea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1703322,amidosulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C1959075,mesosulfuron-methyl
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C2002475,N-tert-butyl-N'-(2-(3-'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C2605604,1-phenyl-3-(coumarin-6-yl)sulfonylurea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C2606412,halosulfuron methyl
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C2742355,"1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethoxyphenoxysulfonyl)urea"
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C3180968,MF 592
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C3536898,Sulfonylurea [EPC]
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C3659805,ethyl 2-(N-((4-iodo-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoate
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C3851502,5-cyanobenzenesulfonylurea
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C4078745,G004 compound
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C4278621,grapiprant
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C4307594,iofensulfuron
+C0040372,tolazamide,C0038766,Sulfonylurea Compounds,C5435066,flucetosulfuron
+C0040374,tolbutamide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0061323,glimepiride
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0061328,gliquidone
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0061329,glisolamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0061330,glisoxepide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0062136,HB 180
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0067547,LY 181984
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0075577,sulfometuron methyl
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0076794,tolcyclamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0076842,tosifen
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0128022,methyl bensulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0165187,sulofenur
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0243356,glipalamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0295215,LY 219703
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0298476,triasulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0350998,glibornuride
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0525682,glyoxamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0535610,hydroxyglimepiride
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0536915,BM 27
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0537582,LY 237868
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0600818,chlorohexamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0601102,iodopropamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0603303,glicaramide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0604912,anisilbutamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0606413,CS 476
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0607456,glyclopyramide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0608276,metahexamide-isothiocyanate
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0610362,chlorcyclamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0617481,4-chlorobenzenesulfonylurea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0636177,SPC 5002
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0637660,4-polyethylene glycol-sulfonylurea-piretanide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0637662,4-dextran-sulfonylurea-piretanide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0640075,AHR 12234
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0641894,1-(piperidyl)-3-(4-tolylsulfonyl)urea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0661195,4-tolylsulfonylurea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0663351,metahexamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0675106,chlorimuron ethyl
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0909420,BM 500
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0913447,4-(1-acetoxyethyl)-N-(cyclohexylcarbamoyl)benzenesulfonamide
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0960382,BM 531
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0960569,flupyrsulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0961253,thifensulfuron methyl
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0962422,nicosulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C0963998,SM 19712
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1097002,BM 567
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1122100,poly(N-isopropylacrylamide-co-sulfonylurea)
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1122455,S-(4-chlorophenylcarbamoyl)glutathione
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1122456,N-acetyl-S-(4-chlorophenylcarbamoyl)cysteine
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1137295,prosulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1172832,cinosulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1260278,N-terbutyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1311467,flazasulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1313369,N-(4-chloro-2-mercapto-5-methylbenzenesulphonyl)urea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1528620,SU-118
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1565112,monosulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1569105,N-n-pentyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1623338,poly(L-lysine)-g-sulfonylurea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1703322,amidosulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C1959075,mesosulfuron-methyl
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C2002475,N-tert-butyl-N'-(2-(3-'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C2605604,1-phenyl-3-(coumarin-6-yl)sulfonylurea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C2606412,halosulfuron methyl
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C2742355,"1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethoxyphenoxysulfonyl)urea"
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C3180968,MF 592
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C3536898,Sulfonylurea [EPC]
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C3659805,ethyl 2-(N-((4-iodo-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoate
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C3851502,5-cyanobenzenesulfonylurea
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C4078745,G004 compound
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C4278621,grapiprant
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C4307594,iofensulfuron
+C0040374,tolbutamide,C0038766,Sulfonylurea Compounds,C5435066,flucetosulfuron
+C0050393,acarbose,C0007004,Carbohydrates,C0068496,neo-cholex powder
+C0050393,acarbose,C0007004,Carbohydrates,C0108509,Caramel Color
+C0050393,acarbose,C0007004,Carbohydrates,C0119395,Glucola
+C0050393,acarbose,C0007004,Carbohydrates,C0215179,Osmolite
+C0050393,acarbose,C0007004,Carbohydrates,C0217419,GT 1587
+C0050393,acarbose,C0007004,Carbohydrates,C0379545,Neocate
+C0050393,acarbose,C0007004,Carbohydrates,C0530032,ADCON-T-N
+C0050393,acarbose,C0007004,Carbohydrates,C0534304,V 15-1 stabilizer
+C0050393,acarbose,C0007004,Carbohydrates,C0604571,formose sugars
+C0050393,acarbose,C0007004,Carbohydrates,C0646857,Adjuvax
+C0050393,acarbose,C0007004,Carbohydrates,C0659649,GT 1043
+C0050393,acarbose,C0007004,Carbohydrates,C0769653,natural serum rubber powder
+C0050393,acarbose,C0007004,Carbohydrates,C1669100,protamylasse
+C0050393,acarbose,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0050393,acarbose,C0050393,acarbose,C0591572,Precose
+C0050393,acarbose,C0050393,acarbose,C1455106,"acarbose byproduct, component C"
+C0050393,acarbose,C0050393,acarbose,C4082329,Glucobay
+C0050393,acarbose,C0065880,Meglitinide,C2266929,Glinide [EPC]
+C0050393,acarbose,C0359086,Oral hypoglycemic,,
+C0050393,acarbose,C0935929,Antidiabetics,,
+C0050393,acarbose,C1299007,alpha-Glucosidase Inhibitors,C2267008,alpha-Glucosidase Inhibitor [EPC]
+C0050393,acarbose,C1512211,Glucosidase Inhibitor,,
+C0061323,glimepiride,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0061323,glimepiride
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0061328,gliquidone
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0061329,glisolamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0061330,glisoxepide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0062136,HB 180
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0067547,LY 181984
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0075577,sulfometuron methyl
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0076794,tolcyclamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0076842,tosifen
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0128022,methyl bensulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0165187,sulofenur
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0243356,glipalamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0295215,LY 219703
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0298476,triasulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0350998,glibornuride
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0525682,glyoxamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0535610,hydroxyglimepiride
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0536915,BM 27
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0537582,LY 237868
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0600818,chlorohexamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0601102,iodopropamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0603303,glicaramide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0604912,anisilbutamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0606413,CS 476
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0607456,glyclopyramide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0608276,metahexamide-isothiocyanate
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0610362,chlorcyclamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0617481,4-chlorobenzenesulfonylurea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0636177,SPC 5002
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0637660,4-polyethylene glycol-sulfonylurea-piretanide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0637662,4-dextran-sulfonylurea-piretanide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0640075,AHR 12234
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0641894,1-(piperidyl)-3-(4-tolylsulfonyl)urea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0661195,4-tolylsulfonylurea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0663351,metahexamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0675106,chlorimuron ethyl
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0909420,BM 500
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0913447,4-(1-acetoxyethyl)-N-(cyclohexylcarbamoyl)benzenesulfonamide
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0960382,BM 531
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0960569,flupyrsulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0961253,thifensulfuron methyl
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0962422,nicosulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C0963998,SM 19712
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1097002,BM 567
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1122100,poly(N-isopropylacrylamide-co-sulfonylurea)
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1122455,S-(4-chlorophenylcarbamoyl)glutathione
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1122456,N-acetyl-S-(4-chlorophenylcarbamoyl)cysteine
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1137295,prosulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1172832,cinosulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1260278,N-terbutyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1311467,flazasulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1313369,N-(4-chloro-2-mercapto-5-methylbenzenesulphonyl)urea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1528620,SU-118
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1565112,monosulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1569105,N-n-pentyl-N'-(2-(4'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1623338,poly(L-lysine)-g-sulfonylurea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1703322,amidosulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C1959075,mesosulfuron-methyl
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C2002475,N-tert-butyl-N'-(2-(3-'-methylphenylamino)-5-nitrobenzenesulfonyl)urea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C2605604,1-phenyl-3-(coumarin-6-yl)sulfonylurea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C2606412,halosulfuron methyl
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C2742355,"1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethoxyphenoxysulfonyl)urea"
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C3180968,MF 592
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C3536898,Sulfonylurea [EPC]
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C3659805,ethyl 2-(N-((4-iodo-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoate
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C3851502,5-cyanobenzenesulfonylurea
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C4078745,G004 compound
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C4278621,grapiprant
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C4307594,iofensulfuron
+C0061323,glimepiride,C0038766,Sulfonylurea Compounds,C5435066,flucetosulfuron
+C0061323,glimepiride,C0061323,glimepiride,C0595112,Amaryl
+C0066535,miglitol,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0066535,miglitol,C0359086,Oral hypoglycemic,,
+C0066535,miglitol,C1299007,alpha-Glucosidase Inhibitors,C2267008,alpha-Glucosidase Inhibitor [EPC]
+C0066535,miglitol,C1512211,Glucosidase Inhibitor,,
+C0071097,pioglitazone,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0071097,pioglitazone,C0359086,Oral hypoglycemic,,
+C0071097,pioglitazone,C0935929,Antidiabetics,,
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0049098,"5-carboxymethyl-3-p-tolylthiazolidine-2,4-dione-2-acetophenone"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0050732,ADD 4743
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0055721,ciglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0082429,englitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0098020,risarestat
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0289779,"2,4-thiazolidinedione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0289781,AD 5075
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0380307,darglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0387481,BM 501050
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0387484,BM 131246
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0390193,"1,2,4-dithiazolidine-3,5-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0539898,"5-((2-(2-naphthalenylmethyl)-5-benzoxazolyl)methyl)-2,4-thiazolidinedione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0618066,AL 321
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0640758,"5-(2-naphthalenylsulfonyl)-2,4-thiazolidinedione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0674556,"5-((4-(2-(1-indolyl)ethoxy)-phenyl)methyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0756997,DN 108
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0769947,"5-(4-((1-(pyridin-2-yl)pyrrolidin-2-yl)methoxy)phenylmethylene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0908767,"2,3-dihydro-5H-naphtho(2,3-f)thiazolo(2,3-c)(1,4)thiazepine-5,13(1aH)-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0908768,"1,13a-dihydro-3H,5H,13H-naphtho(2,3-f)thiazolo(4,3-c)(1,4)thiazepine-5,13-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0960494,"5-(4-(5-methoxy-3-methyl-3H-imidazo(4,5-b)pyridin-2-ylmethoxy)benzyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C0971202,"5-(4-(N-(2-pyridyl)-(2S)-pyrrolidine-2-methoxy)phenylmethylene) thiazolidine-2,6-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1171928,"5-(4-(cyclohexylethoxy)benzylidene)-2,4-thiazolidinedione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1174669,"5-(4-(2-(2-ethyl-4-methyl-6-oxo-1,6-dihydro-1-pyrimidinyl)ethoxy)phenylmethyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1434033,N-desmethylrosiglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1434562,NIP-222
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1450228,"5-(3-(3-(4-phenoxy-2-propylphenoxy)propoxy)phenyl)-2,4-thiazolidinedione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1565336,DRF 2519
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1566435,balaglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1568506,"thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1568507,"thiazolidine-2,4-thione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1608713,5-(3-methoxyphenylidene)-2-phenylimino-3-propyl-4-thiazolidinone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1608760,5-(4-bromobenzylidene)-alpha-isopropyl-4-oxo-2-thioxo-3-thazolidineacetic acid
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1612833,"5-(2,2-difluorobenzo(1,3)dioxol-5-ylmethylene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1613938,"5-quinoxalin-6-ylmethylenethiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1667777,"5-adamantylpentanoic acid (2-(4-(2,4-dioxothiazolidin-5-ylmethyl)phenoxy)ethyl)(methyl)amide"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1684393,"5-(3,5-di-tert-butyl-4-hydroxybenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1701524,"3-benzyl-5-acridinylidene-thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1701525,"5-benzylidene-3-(4-methyl-benzyl)-thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1721279,netoglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1722321,M-II compound
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1722322,M-IV compound
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1722495,"5-((4-(2-(5-methyl-2-phenyl-oxazol-4-yl)ethoxy)benzo(2) thiophen-7-yl)methyl)-thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1738750,"5-(4-((6-(allyloxy)-2,5,7,8-tetramethylchroman-2-yl)methoxy)-3-methoxybenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1740164,"N-(2-(4-((2,4-dioxo-1,3-thiazolidin-5-yl)methyl)phenoxy)ethyl)-5-(1,2-dithiolan-3-yl)-N-methylpentanamide"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1741259,SB-271258
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1742397,"5-(5-(4-fluoro-2-hydroxyphenyl)furan-2-ylmethylene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C1958863,rivoglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2354943,"N-(-4-(N-(biphenyl-2-ylmethyl)-N-2-methylpropylamino)- 1-(2-(2,4-difluorobenzoyl)benzoyl)pyrrolidin- 2-yl)methyl-3-(4-(2,4-dioxothiazolidin-5-ylidenemethyl) phenyl)acrylamide"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2603738,"3-(3,4-dichlorobenzyl)-5-(3,4,5-trihydroxybenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2604364,"4-((5-bromo-4-((2,4-dioxo-3-(2-oxo-2-phenylethyl)-1,3-thiazolidin-5-ylidene)methyl)-2-ethoxyphenoxy)methyl)benzoic acid"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2605394,"3-(3,5-dichlorophenyl)-2,4-thiazolidinedione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2606662,R 147176
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2717153,"5-(4-hydroxy-3-trifluoromethylbenzylidene)-3-(1-methylcyclohexyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2717737,BLX 1002
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2744500,"3-(2-aminoethyl)-5-(4-ethoxybenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2744525,"5-(4-methoxybenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2744790,lobeglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2827204,efatutazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2933042,"N-((4-(biphenyl-2-ylmethoxy)-1-(2-(4-fluorobenzoyl)benzoyl)pyrrolidin-2-yl)methyl)-4-((2,4-dioxothiazolidin-5-ylidene)methyl)benzamide"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2933595,"N-(4-(3-(1-methyl-cyclohexylmethyl)-2,4-dioxothiazolidin-5-ylidenemethyl)phenyl)-4-nitro-3-trifluoromethylbenzenesulfonamide"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2974917,"3-benzyl-2-(4-fluorophenyl)-1,3-thiazolidin-4-one"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C2975374,"2-(3-((4-((2,4-dioxothiazolidin-5-ylidene)methyl)phenylamino)methyl)benzamido)pentanedioic acid"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3177997,"5-(4-(cyclopentylmethoxy)benzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3181702,"4-(4-fluorobenzyl)-2-p-tolyl-1,2,4-thiadiazolidine-3,5-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3253198,"5-(4-hydroxy-3,5-dimethylbenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3254577,"5-acridin-9-ylmethylene-3-(4-methyl-benzyl)-thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3490708,TD49 thiazolidinedione
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3493316,"5-(4-hydroxy-3-trifluoromethylbenzylidene)-3-(4,4,4-trifluoro-2-methyl-2-(2,2,2-trifluoroethyl)butyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3501613,"(Z)2-(5-(4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl)acetic acid"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3502193,"4-(4-(2,4-dioxothiazolidin-5-ylidenemethyl)-2-methoxyphenoxy)-3-trifluoromethylbenzonitrile"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3502265,"5-(5-bromo-2-methoxybenzylidene)-3-(4-methyl-benzyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3537039,Thiazolidinedione [EPC]
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3658481,"N-(3-chlorophenyl)-2-(4-((2,4-dioxothiazolidin-5-ylidene)methyl)phenoxy)acetamide"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3659302,"5-(4-chlorobenzylidene)-3-(4-methylbenzyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3659396,MSDC-0160
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3659481,CAY10506
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3659482,CAY10415
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3710974,"3-(2-aminoethyl)-5-(3-(4-butoxylphenyl)propylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3712091,5-hydroxyrosiglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3712366,"5-benzylidene thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3713012,"5-((5-bromo-1H-indol-3-yl)methylene)-3-(4-chlorobenzyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3713131,OSU-CG5
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3713258,"(Z)-5-(2,4-dihydroxybenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3849915,"3-benzyl-5-(1H-indol-3-ylmethylene)-thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3850820,"3-((3-((4-(4-morpholinylmethyl)-1H-pyrrol-2-yl)methylene)-2-oxo-2,3-dihydro-1H-indol-5-yl)methyl)-1,3-thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3851625,(2-(2-Phenoxy-1-(4-bromophenyl)ethylidene)hydrazono)-5-ethylthiazolidin-4-one
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3883839,"5-(4-(2-(5-ethylpyridin-2-yl)ethoxy)benzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C3885444,"chromonyl-2,4-thiazolidinedione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4043224,OSU-53
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4043392,"5-(2-chloro-3-(3-phenylpropoxy)benzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4077207,thiazolidinedione-8
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4078968,"3-tert-butoxycarbonylmethyl-5-(4-(2-(N-methyl-N-(2-pyridyl)amino)ethoxy)benzyl)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4079259,ZINC17167211
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4279338,iCTR14 compound
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4309924,GQ-177
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4507056,MSDC-0602
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4507958,"5-(3,5-di-tert-butyl-4-hydroxybenzyl)-4-hydroxythiazol-2(5H)-one"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4508662,5-hydroxypioglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4547665,"5-(3-trifluoromethylbenzylidene)thiazolidine-2,4-dione"
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4548702,FX1 thiazolidinedione compound
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4549838,SMI-4a compound
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4549860,MK-2305
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C4550178,BFF-816
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C5139806,leriglitazone
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C5435043,iCRT14
+C0071097,pioglitazone,C1257987,Thiazolidinediones,C5565109,(Z)-2-chloro-5-(5-((4-oxo-3-phenethyl-2-thioxothiazolidin-5-ylidene)methyl)furan-2-yl)benzoic acid
+C0123677,"insulin aspart, human",C0021641,Insulin,C0020616,hypoglykemika
+C0123677,"insulin aspart, human",C0021641,Insulin,C0048080,"insulin, 4-azido-2-nitrophenyl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0051301,alpha-2-macroglobulin-insulin complex
+C0123677,"insulin aspart, human",C0021641,Insulin,C0057819,"insulin, dicarbain(A7,B7)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0058735,DP 432
+C0123677,"insulin aspart, human",C0021641,Insulin,C0061420,glucose-insulin-potassium cardioplegic solution
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063610,insulin dimers
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063617,"insulin, 4-azidobenzoyl(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063618,"insulin, 2,7-diaminosuberoyl, N(alpha)(A1), N(epsilon)(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063624,"insulin, (2-nitro-4-trimethylammoniophenyl)(A1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063626,"insulin, adipoyl-Arg(B22)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063627,"insulin, Ala(B0)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063628,"insulin, Ala(A1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063629,"insulin, Asp(B9)-Glu(B27)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063630,"insulin, (2-nitro-4-azidophenylacetyl)(B2)-des-Phe(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063631,"insulin, (2-nitro-4-azidophenylacetyl) (B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063632,"insulin, Arg(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063633,"insulin, biotinyl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063634,"insulin, citraconyl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063635,"insulin, depot-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063636,"insulin, des(heptapeptide)(B24-B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063637,"insulin, (B1)-des-Phe-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063638,"insulin, desamido-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063639,"insulin, deshexapeptide(B25-B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063640,"insulin, desoctapeptide-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063641,"insulin, despentapeptide(B26-B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063645,"insulin, despentapeptide (B26-B30)-TyrNH2(B25)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063646,"insulin, dethiobiotinyl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063647,"insulin, fluorescein-isothiocyanated-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063648,"insulin, Gln(B13)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063650,"insulin, glycosylated"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063651,"insulin, iodo-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063652,"insulin, 3-iodo-Tyr(A14)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063653,"insulin, Leu(B24)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063654,"insulin, Leu(B25)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063655,"insulin, Leu(B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063656,"insulin, Leu(A3)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063658,"insulin, Phe(A14)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063659,"insulin, Phe(A19)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063660,"insulin, Phe(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063662,"insulin, Ser(B25)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063663,"insulin, single chain des-(B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063664,"insulin, Phe(B24)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063665,"insulin, tri-Lys-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063666,"insulin, Trp(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063667,"insulin, Trp(A19)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063668,"insulin, Trp(A1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063669,"Insulin, Ultratard"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063672,insulin crosslinked to the catalytic fragment A of diphtheria toxin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0063681,insulin-related factor
+C0123677,"insulin aspart, human",C0021641,Insulin,C0071928,preproinsulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0077955,University of Wisconsin-lactobionate solution
+C0123677,"insulin aspart, human",C0021641,Insulin,C0083018,"insulin, (2-nitro-4-azidophenyl)(A1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0083020,"insulin, 4-succinylamidophenylglucopyranoside-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0083022,"insulin, Arg(B31,B32)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0114422,DKP-insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0123676,"insulin, Asp(B10)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0123682,"insulin, des-Ala-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0168250,"insulin, B1-(4-azidosalicyloyl)-(B1-biocytin,B2-lysine)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0209305,"insulin, despentapeptide (B26-B30)-PheNH2(B25)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0213702,B29-biotin insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0249860,Leydig insulin-like protein
+C0123677,"insulin aspart, human",C0021641,Insulin,C0250831,insulin fragment A(14-21)-B(17-30)
+C0123677,"insulin aspart, human",C0021641,Insulin,C0253017,"insulin, Arg(B31)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0254207,"insulin, octadeutero-Phe(B1)-octadeutero-Val(B2)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0256728,"insulin, His(B16)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0283258,"insulin, desamido (A21)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0291665,B-insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0291667,NBC-insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0294827,BSA-insulin-chlorin e(6) conjugate
+C0123677,"insulin aspart, human",C0021641,Insulin,C0296855,amphioxus insulin-like peptide
+C0123677,"insulin aspart, human",C0021641,Insulin,C0383961,iodo(A14-tyrosyl)insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0386280,insulin B (9-23)
+C0123677,"insulin aspart, human",C0021641,Insulin,C0390374,"insulin, desamido (B-3)"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0529318,"insulin, Ser(A6,A11)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0602919,"insulin, carboxymethyl-His-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0604437,"insulin, Sar(9A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0604998,"insulin, hexamethylester-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0605635,"insulin, trifluoroacetyl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0605837,"insulin, tris(N-methylpyridinium)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0605896,"insulin, Asp-imide(A21)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0607219,"insulin, triphthaloyl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0607815,"insulin, des(pentapeptide)(B1-B5)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0607817,"insulin, des(tetrapeptide)(B1-B4)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0609900,"insulin, N,N-bis(methylsulfonylethoxycarbonyl)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0610305,"insulin, des-Phe(B1)-des-Val(B2)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0610312,"insulin, des-Gly(A1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0610317,"insulin, des-Gly(A1)-des-Phe(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0611569,"insulin, AsnNH2(A21)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0612342,"insulin, tetrakis(3-nitro-Tyr)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0612378,"insulin, fluoresceinthiocarbamyl(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0612927,ATP-insulin conjugates
+C0123677,"insulin aspart, human",C0021641,Insulin,C0613284,"insulin, Asn(B12)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0613591,"insulin, butyrimidylpyridine disulfide-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0614076,"insulin, Leu(B24,B25)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0614165,"insulin, azoisobutyryl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0614339,"insulin, Nle(A2)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0614343,"insulin, carbonyl-bis-Met,N(alphal),N(epsilon)(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0614347,"insulin, des-Gly(1A)-N-((trimethylammonio)acetyl)Ile(2A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0615244,"insulin, dihydroxycyclohexylene-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0615784,"insulin, methoxy-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0616797,"insulin, 4-(azidophenylacetyl)-2,4-diaminobutyric acid(A1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0617005,"insulin, Ala(B24)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0617304,"insulin, disulfide-des-Ala(B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0617638,"insulin, Arg(B22)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0617744,"insulin, (2-nitro-azidophenylacetyl)(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0618331,"insulin, N-methylpyridinium"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0618584,"insulin, bis(tert-butyloxycarbonyl)desoctapeptide-phenylhydrazide-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0618823,"insulin, 3,5-diiodo-Tyr(A19)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0619003,"insulin, des-Asn(A21)-des-Ala(B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0619541,insulin B (22-30)
+C0123677,"insulin aspart, human",C0021641,Insulin,C0619608,"insulin, Pro(B21)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0619735,"insulin, polyethylene glycol(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0620337,"insulin, des(hexapeptide)(B25-30)-Ala(B23)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0620404,"insulin, Nle(B17)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0621499,"insulin, Asn(B10)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0621732,insulin B (20-30)
+C0123677,"insulin aspart, human",C0021641,Insulin,C0621734,insulin B (9-30)
+C0123677,"insulin aspart, human",C0021641,Insulin,C0621836,"insulin, (2-nitro-4-azidophenyl)-Gly(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0622744,"insulin, Gln(B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0622930,"insulin, Leu(A19)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0623349,insulin-dextran
+C0123677,"insulin aspart, human",C0021641,Insulin,C0624080,"insulin, N(alpha)(B1), biotinyl-epsilon-aminocaproyl-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0625128,"insulin, dicitraconyl Gly(A1)Phe(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0626113,"insulin, A(27)-B-insulin-like growth factor I"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0628782,"insulin, 3-(N-phenylacetyl)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0629690,insulin covalent aggregate
+C0123677,"insulin aspart, human",C0021641,Insulin,C0629769,"insulin, dodecoy(A1-B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0629771,"insulin, diacetyl(A1-B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632718,"insulin, N-Me-Ile(2A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632723,"insulin, N-Me-Val(3A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632755,"insulin, des-Asn(21)-CysNH2(20)(A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632760,"insulin, des-Asn(21)-Cys(20)-isopropylamide(A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632765,"insulin, Asn(21)-diethylamide(A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632770,"insulin, des-Asn(21)-Cys(20)-ethylamide(A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632775,"insulin, des-Asn(21)-Cys(20)-2,2,2-trifluoroethylamide(A)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0632877,"insulin, Gly(A1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0633110,colloidal gold-insulin complex
+C0123677,"insulin aspart, human",C0021641,Insulin,C0633788,acetylinsulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0634754,"insulin, (2,4,6-trinitrophenyl)sulfonyl(Al)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0635370,glycerol-insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0636815,"insulin, 4-fluorophenylalanine(A19)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0638143,insulin B-chain tetrapeptide amide B22-B25
+C0123677,"insulin aspart, human",C0021641,Insulin,C0638372,NovoSol Basal insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0638563,"insulin, despentapeptide (B26-B30)-HisNH2(B25)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0643685,"insulin, 4-succinylamidophenylmannopyranoside-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0643688,"insulin, 4-succinylamidophenylarabinopyranoside-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0647224,"2,4-dinitrophenol-insulin A chain-fluorescein conjugate"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0648107,"insulin, Glu(21) B-chain-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0648110,"insulin, Aib(21) B-chain-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0648113,"insulin, Aib(22) B-chain-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0648983,"2-(4-azidosalicylamido)ethyl-1,3-dithiopropionate insulin"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0652363,"insulin, W(B28),P(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0653718,"Insulin, Sulfated, Beef"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0656814,"insulin, Ser(B24)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0657490,benzoylphenylalanine(B25)insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0662186,"insulin, des(tetrapeptide)(B27-B30)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0673450,"insulin, N(epsilon)-palmitoyl Lys(B29)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0759350,"insulin, Arg(B0)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0769489,bis(9-fluorenylmethoxycarbonyl)insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0909989,cholera toxin B-insulin conjugate
+C0123677,"insulin aspart, human",C0021641,Insulin,C0915897,((2-sulfo)-9-fluorenylmethoxycarbonyl)3-insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0960400,N(epsilon)B29-(4-azidosalicyloyl) insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0960401,N(epsilon)B29-(4-azidotetrafluorobenzoyl-biocytinyl) insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0961403,"insulin, Lys(B29)-(N(epsilon)-myristoyl)-des(b30)"
+C0123677,"insulin aspart, human",C0021641,Insulin,C0962634,thyroxyl-insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C0965756,"ins-1 protein, C elegans"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1099171,"insulin, Glu(A8)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1099172,"insulin, Gln(A8)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1137830,NBI6024
+C0123677,"insulin aspart, human",C0021641,Insulin,C1175776,hexyl-insulin monoconjugate 2
+C0123677,"insulin aspart, human",C0021641,Insulin,C1176237,Exubera
+C0123677,"insulin aspart, human",C0021641,Insulin,C1258519,Lys(B29)(N-carboxynonadecanoyl)-des(B30) human insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C1311477,B27 Lys destripeptide insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C1313386,"insulin glulisine, human"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1433807,"insulin-like protein 6-kDa, Panulirus argus"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1579433,Insulin [EPC]
+C0123677,"insulin aspart, human",C0021641,Insulin,C1669500,glycated insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C1698737,"insulin, 6-(4-fluorobenzoyl)aminohexanoylphenylalanyl(B1)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1740193,"ins protein, zebrafish"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1742153,"Insb protein, zebrafish"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1742762,"Ins1 protein, mouse"
+C0123677,"insulin aspart, human",C0021641,Insulin,C1743122,B22 Glu des-B30 insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C1957875,Lys(B29)-N(epsilon)-lithocholoyl-gamma-Glu des(b30) insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C2717412,Auron-Misheil-Therapy
+C0123677,"insulin aspart, human",C0021641,Insulin,C2744528,PIns peptide
+C0123677,"insulin aspart, human",C0021641,Insulin,C2931279,"Growth Factors, Combined Defect of"
+C0123677,"insulin aspart, human",C0021641,Insulin,C3252670,"insulin, B(1-29)-valyl-glycyl-leucyl-seryl-seryl-glycyl-glutaminyl-A(1-21)-A18Q-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C3252671,"insulin, A8H,B25N,B27E,desB30-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C3253841,"Ins2 protein, mouse"
+C0123677,"insulin aspart, human",C0021641,Insulin,C3658137,"insulin, lysyl(B31)-arginyl(B32)-"
+C0123677,"insulin aspart, human",C0021641,Insulin,C3712707,ORMD-0801
+C0123677,"insulin aspart, human",C0021641,Insulin,C4044340,Somah
+C0123677,"insulin aspart, human",C0021641,Insulin,C4549738,neutral protamine lispro insulin
+C0123677,"insulin aspart, human",C0021641,Insulin,C4742625,MK-2640
+C0123677,"insulin aspart, human",C0356365,"Insulin, Short-Acting",,
+C0123677,"insulin aspart, human",C0795635,"insulin, regular, human",C0306371,Humulin R
+C0123677,"insulin aspart, human",C0795635,"insulin, regular, human",C0307073,Novolin R
+C0123677,"insulin aspart, human",C0795635,"insulin, regular, human",C1567659,Albulin
+C0123677,"insulin aspart, human",C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C0167117,exenatide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0167117,exenatide,C0167117,exenatide,C1636686,Byetta
+C0167117,exenatide,C0935929,Antidiabetics,,
+C0167117,exenatide,C1562104,Product containing glucagon-like peptide 1 receptor agonist (product),C2917359,GLP-1 Receptor Agonist [EPC]
+C0167117,exenatide,C1562292,Incretins,,
+C0246689,repaglinide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0246689,repaglinide,C0065880,Meglitinide,C2266929,Glinide [EPC]
+C0246689,repaglinide,C0359086,Oral hypoglycemic,,
+C0246689,repaglinide,C3537178,Glinides,,
+C0289313,rosiglitazone,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0289313,rosiglitazone,C0359086,Oral hypoglycemic,,
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0049098,"5-carboxymethyl-3-p-tolylthiazolidine-2,4-dione-2-acetophenone"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0050732,ADD 4743
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0055721,ciglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0082429,englitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0098020,risarestat
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0289779,"2,4-thiazolidinedione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0289781,AD 5075
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0380307,darglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0387481,BM 501050
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0387484,BM 131246
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0390193,"1,2,4-dithiazolidine-3,5-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0539898,"5-((2-(2-naphthalenylmethyl)-5-benzoxazolyl)methyl)-2,4-thiazolidinedione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0618066,AL 321
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0640758,"5-(2-naphthalenylsulfonyl)-2,4-thiazolidinedione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0674556,"5-((4-(2-(1-indolyl)ethoxy)-phenyl)methyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0756997,DN 108
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0769947,"5-(4-((1-(pyridin-2-yl)pyrrolidin-2-yl)methoxy)phenylmethylene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0908767,"2,3-dihydro-5H-naphtho(2,3-f)thiazolo(2,3-c)(1,4)thiazepine-5,13(1aH)-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0908768,"1,13a-dihydro-3H,5H,13H-naphtho(2,3-f)thiazolo(4,3-c)(1,4)thiazepine-5,13-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0960494,"5-(4-(5-methoxy-3-methyl-3H-imidazo(4,5-b)pyridin-2-ylmethoxy)benzyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C0971202,"5-(4-(N-(2-pyridyl)-(2S)-pyrrolidine-2-methoxy)phenylmethylene) thiazolidine-2,6-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1171928,"5-(4-(cyclohexylethoxy)benzylidene)-2,4-thiazolidinedione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1174669,"5-(4-(2-(2-ethyl-4-methyl-6-oxo-1,6-dihydro-1-pyrimidinyl)ethoxy)phenylmethyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1434033,N-desmethylrosiglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1434562,NIP-222
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1450228,"5-(3-(3-(4-phenoxy-2-propylphenoxy)propoxy)phenyl)-2,4-thiazolidinedione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1565336,DRF 2519
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1566435,balaglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1568506,"thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1568507,"thiazolidine-2,4-thione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1608713,5-(3-methoxyphenylidene)-2-phenylimino-3-propyl-4-thiazolidinone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1608760,5-(4-bromobenzylidene)-alpha-isopropyl-4-oxo-2-thioxo-3-thazolidineacetic acid
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1612833,"5-(2,2-difluorobenzo(1,3)dioxol-5-ylmethylene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1613938,"5-quinoxalin-6-ylmethylenethiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1667777,"5-adamantylpentanoic acid (2-(4-(2,4-dioxothiazolidin-5-ylmethyl)phenoxy)ethyl)(methyl)amide"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1684393,"5-(3,5-di-tert-butyl-4-hydroxybenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1701524,"3-benzyl-5-acridinylidene-thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1701525,"5-benzylidene-3-(4-methyl-benzyl)-thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1721279,netoglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1722321,M-II compound
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1722322,M-IV compound
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1722495,"5-((4-(2-(5-methyl-2-phenyl-oxazol-4-yl)ethoxy)benzo(2) thiophen-7-yl)methyl)-thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1738750,"5-(4-((6-(allyloxy)-2,5,7,8-tetramethylchroman-2-yl)methoxy)-3-methoxybenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1740164,"N-(2-(4-((2,4-dioxo-1,3-thiazolidin-5-yl)methyl)phenoxy)ethyl)-5-(1,2-dithiolan-3-yl)-N-methylpentanamide"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1741259,SB-271258
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1742397,"5-(5-(4-fluoro-2-hydroxyphenyl)furan-2-ylmethylene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C1958863,rivoglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2354943,"N-(-4-(N-(biphenyl-2-ylmethyl)-N-2-methylpropylamino)- 1-(2-(2,4-difluorobenzoyl)benzoyl)pyrrolidin- 2-yl)methyl-3-(4-(2,4-dioxothiazolidin-5-ylidenemethyl) phenyl)acrylamide"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2603738,"3-(3,4-dichlorobenzyl)-5-(3,4,5-trihydroxybenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2604364,"4-((5-bromo-4-((2,4-dioxo-3-(2-oxo-2-phenylethyl)-1,3-thiazolidin-5-ylidene)methyl)-2-ethoxyphenoxy)methyl)benzoic acid"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2605394,"3-(3,5-dichlorophenyl)-2,4-thiazolidinedione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2606662,R 147176
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2717153,"5-(4-hydroxy-3-trifluoromethylbenzylidene)-3-(1-methylcyclohexyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2717737,BLX 1002
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2744500,"3-(2-aminoethyl)-5-(4-ethoxybenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2744525,"5-(4-methoxybenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2744790,lobeglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2827204,efatutazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2933042,"N-((4-(biphenyl-2-ylmethoxy)-1-(2-(4-fluorobenzoyl)benzoyl)pyrrolidin-2-yl)methyl)-4-((2,4-dioxothiazolidin-5-ylidene)methyl)benzamide"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2933595,"N-(4-(3-(1-methyl-cyclohexylmethyl)-2,4-dioxothiazolidin-5-ylidenemethyl)phenyl)-4-nitro-3-trifluoromethylbenzenesulfonamide"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2974917,"3-benzyl-2-(4-fluorophenyl)-1,3-thiazolidin-4-one"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C2975374,"2-(3-((4-((2,4-dioxothiazolidin-5-ylidene)methyl)phenylamino)methyl)benzamido)pentanedioic acid"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3177997,"5-(4-(cyclopentylmethoxy)benzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3181702,"4-(4-fluorobenzyl)-2-p-tolyl-1,2,4-thiadiazolidine-3,5-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3253198,"5-(4-hydroxy-3,5-dimethylbenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3254577,"5-acridin-9-ylmethylene-3-(4-methyl-benzyl)-thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3490708,TD49 thiazolidinedione
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3493316,"5-(4-hydroxy-3-trifluoromethylbenzylidene)-3-(4,4,4-trifluoro-2-methyl-2-(2,2,2-trifluoroethyl)butyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3501613,"(Z)2-(5-(4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl)acetic acid"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3502193,"4-(4-(2,4-dioxothiazolidin-5-ylidenemethyl)-2-methoxyphenoxy)-3-trifluoromethylbenzonitrile"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3502265,"5-(5-bromo-2-methoxybenzylidene)-3-(4-methyl-benzyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3537039,Thiazolidinedione [EPC]
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3658481,"N-(3-chlorophenyl)-2-(4-((2,4-dioxothiazolidin-5-ylidene)methyl)phenoxy)acetamide"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3659302,"5-(4-chlorobenzylidene)-3-(4-methylbenzyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3659396,MSDC-0160
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3659481,CAY10506
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3659482,CAY10415
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3710974,"3-(2-aminoethyl)-5-(3-(4-butoxylphenyl)propylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3712091,5-hydroxyrosiglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3712366,"5-benzylidene thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3713012,"5-((5-bromo-1H-indol-3-yl)methylene)-3-(4-chlorobenzyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3713131,OSU-CG5
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3713258,"(Z)-5-(2,4-dihydroxybenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3849915,"3-benzyl-5-(1H-indol-3-ylmethylene)-thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3850820,"3-((3-((4-(4-morpholinylmethyl)-1H-pyrrol-2-yl)methylene)-2-oxo-2,3-dihydro-1H-indol-5-yl)methyl)-1,3-thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3851625,(2-(2-Phenoxy-1-(4-bromophenyl)ethylidene)hydrazono)-5-ethylthiazolidin-4-one
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3883839,"5-(4-(2-(5-ethylpyridin-2-yl)ethoxy)benzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C3885444,"chromonyl-2,4-thiazolidinedione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4043224,OSU-53
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4043392,"5-(2-chloro-3-(3-phenylpropoxy)benzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4077207,thiazolidinedione-8
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4078968,"3-tert-butoxycarbonylmethyl-5-(4-(2-(N-methyl-N-(2-pyridyl)amino)ethoxy)benzyl)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4079259,ZINC17167211
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4279338,iCTR14 compound
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4309924,GQ-177
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4507056,MSDC-0602
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4507958,"5-(3,5-di-tert-butyl-4-hydroxybenzyl)-4-hydroxythiazol-2(5H)-one"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4508662,5-hydroxypioglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4547665,"5-(3-trifluoromethylbenzylidene)thiazolidine-2,4-dione"
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4548702,FX1 thiazolidinedione compound
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4549838,SMI-4a compound
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4549860,MK-2305
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C4550178,BFF-816
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C5139806,leriglitazone
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C5435043,iCRT14
+C0289313,rosiglitazone,C1257987,Thiazolidinediones,C5565109,(Z)-2-chloro-5-(5-((4-oxo-3-phenethyl-2-thioxothiazolidin-5-ylidene)methyl)furan-2-yl)benzoic acid
+C0293359,insulin lispro,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0293359,insulin lispro,C0356365,"Insulin, Short-Acting",,
+C0293359,insulin lispro,C0795635,"insulin, regular, human",C0306371,Humulin R
+C0293359,insulin lispro,C0795635,"insulin, regular, human",C0307073,Novolin R
+C0293359,insulin lispro,C0795635,"insulin, regular, human",C1567659,Albulin
+C0293359,insulin lispro,C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C0304232,Type of drug preparation
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C0304463,Alkalinizing agent (substance)
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C0304599,Pediculicide
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C0521952,Ceruminolytic agent
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C3850437,yi bu a jie
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C4044657,CNX-011-67
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C4308375,xueyu danhuang
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C4309507,LASAP-C
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C4310014,ikwitang
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C4310033,alpha BRAIN
+C0537551,pramlintide,C0013227,Pharmaceutical Preparations,C4549708,eppikajutsuto
+C0537551,pramlintide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0537551,pramlintide,C0935929,Antidiabetics,,
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C0304232,Type of drug preparation
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C0304463,Alkalinizing agent (substance)
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C0304599,Pediculicide
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C0521952,Ceruminolytic agent
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C3850437,yi bu a jie
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C4044657,CNX-011-67
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C4308375,xueyu danhuang
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C4309507,LASAP-C
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C4310014,ikwitang
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C4310033,alpha BRAIN
+C0541155,colesevelam,C0013227,Pharmaceutical Preparations,C4549708,eppikajutsuto
+C0541155,colesevelam,C0578399,Quaternary Ammonium Compounds,C0050288,A 17
+C0770893,metformin hydrochloride,C0025598,metformin,C0606569,Glucinan
+C0770893,metformin hydrochloride,C0025598,metformin,C0666930,tetrachloro(metformin)platinum(IV)
+C0770893,metformin hydrochloride,C0025598,metformin,C0939344,Glucovance
+C0770893,metformin hydrochloride,C0025598,metformin,C1170394,Metaglip
+C0770893,metformin hydrochloride,C0025598,metformin,C1620263,metformin / rosiglitazone
+C0770893,metformin hydrochloride,C0025598,metformin,C1665664,"N,N-dimethylbiguanidium"
+C0770893,metformin hydrochloride,C0025598,metformin,C4547230,TP-113
+C0770893,metformin hydrochloride,C0359086,Oral hypoglycemic,,
+C0795633,"insulin isophane, human",C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C0306370,Humulin N
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C0307071,Insulatard
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C0724600,"insulin isophane, pork"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C0982224,"insulin, protamine zinc, beef-pork"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C0991832,"insulin isophane, beef"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C0993223,"insulin isophane, beef-pork"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C2003521,"insulin aspart, insulin aspart protamine drug combination 30:70"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C3180727,"isophane insulin, insulin lispro drug combination 50:50"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C3180742,"insulin, pork; isophane insulin, pork drug combination 30:70"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C3253840,"insulin lispro, isophane insulin lispro drug combination (25:75)"
+C0795633,"insulin isophane, human",C0021658,insulin isophane,C3501748,biphasic human insulin 30
+C0795633,"insulin isophane, human",C0795633,"insulin isophane, human",,
+C0795633,"insulin isophane, human",C0795635,"insulin, regular, human",C0306371,Humulin R
+C0795633,"insulin isophane, human",C0795635,"insulin, regular, human",C0307073,Novolin R
+C0795633,"insulin isophane, human",C0795635,"insulin, regular, human",C1567659,Albulin
+C0795633,"insulin isophane, human",C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0020616,hypoglykemika
+C0795635,"insulin, regular, human",C0021641,Insulin,C0048080,"insulin, 4-azido-2-nitrophenyl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0051301,alpha-2-macroglobulin-insulin complex
+C0795635,"insulin, regular, human",C0021641,Insulin,C0057819,"insulin, dicarbain(A7,B7)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0058735,DP 432
+C0795635,"insulin, regular, human",C0021641,Insulin,C0061420,glucose-insulin-potassium cardioplegic solution
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063610,insulin dimers
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063617,"insulin, 4-azidobenzoyl(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063618,"insulin, 2,7-diaminosuberoyl, N(alpha)(A1), N(epsilon)(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063624,"insulin, (2-nitro-4-trimethylammoniophenyl)(A1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063626,"insulin, adipoyl-Arg(B22)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063627,"insulin, Ala(B0)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063628,"insulin, Ala(A1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063629,"insulin, Asp(B9)-Glu(B27)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063630,"insulin, (2-nitro-4-azidophenylacetyl)(B2)-des-Phe(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063631,"insulin, (2-nitro-4-azidophenylacetyl) (B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063632,"insulin, Arg(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063633,"insulin, biotinyl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063634,"insulin, citraconyl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063635,"insulin, depot-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063636,"insulin, des(heptapeptide)(B24-B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063637,"insulin, (B1)-des-Phe-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063638,"insulin, desamido-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063639,"insulin, deshexapeptide(B25-B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063640,"insulin, desoctapeptide-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063641,"insulin, despentapeptide(B26-B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063645,"insulin, despentapeptide (B26-B30)-TyrNH2(B25)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063646,"insulin, dethiobiotinyl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063647,"insulin, fluorescein-isothiocyanated-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063648,"insulin, Gln(B13)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063650,"insulin, glycosylated"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063651,"insulin, iodo-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063652,"insulin, 3-iodo-Tyr(A14)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063653,"insulin, Leu(B24)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063654,"insulin, Leu(B25)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063655,"insulin, Leu(B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063656,"insulin, Leu(A3)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063658,"insulin, Phe(A14)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063659,"insulin, Phe(A19)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063660,"insulin, Phe(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063662,"insulin, Ser(B25)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063663,"insulin, single chain des-(B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063664,"insulin, Phe(B24)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063665,"insulin, tri-Lys-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063666,"insulin, Trp(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063667,"insulin, Trp(A19)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063668,"insulin, Trp(A1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063669,"Insulin, Ultratard"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063672,insulin crosslinked to the catalytic fragment A of diphtheria toxin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0063681,insulin-related factor
+C0795635,"insulin, regular, human",C0021641,Insulin,C0071928,preproinsulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0077955,University of Wisconsin-lactobionate solution
+C0795635,"insulin, regular, human",C0021641,Insulin,C0083018,"insulin, (2-nitro-4-azidophenyl)(A1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0083020,"insulin, 4-succinylamidophenylglucopyranoside-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0083022,"insulin, Arg(B31,B32)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0114422,DKP-insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0123676,"insulin, Asp(B10)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0123682,"insulin, des-Ala-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0168250,"insulin, B1-(4-azidosalicyloyl)-(B1-biocytin,B2-lysine)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0209305,"insulin, despentapeptide (B26-B30)-PheNH2(B25)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0213702,B29-biotin insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0249860,Leydig insulin-like protein
+C0795635,"insulin, regular, human",C0021641,Insulin,C0250831,insulin fragment A(14-21)-B(17-30)
+C0795635,"insulin, regular, human",C0021641,Insulin,C0253017,"insulin, Arg(B31)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0254207,"insulin, octadeutero-Phe(B1)-octadeutero-Val(B2)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0256728,"insulin, His(B16)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0283258,"insulin, desamido (A21)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0291665,B-insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0291667,NBC-insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0294827,BSA-insulin-chlorin e(6) conjugate
+C0795635,"insulin, regular, human",C0021641,Insulin,C0296855,amphioxus insulin-like peptide
+C0795635,"insulin, regular, human",C0021641,Insulin,C0383961,iodo(A14-tyrosyl)insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0386280,insulin B (9-23)
+C0795635,"insulin, regular, human",C0021641,Insulin,C0390374,"insulin, desamido (B-3)"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0529318,"insulin, Ser(A6,A11)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0602919,"insulin, carboxymethyl-His-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0604437,"insulin, Sar(9A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0604998,"insulin, hexamethylester-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0605635,"insulin, trifluoroacetyl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0605837,"insulin, tris(N-methylpyridinium)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0605896,"insulin, Asp-imide(A21)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0607219,"insulin, triphthaloyl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0607815,"insulin, des(pentapeptide)(B1-B5)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0607817,"insulin, des(tetrapeptide)(B1-B4)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0609900,"insulin, N,N-bis(methylsulfonylethoxycarbonyl)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0610305,"insulin, des-Phe(B1)-des-Val(B2)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0610312,"insulin, des-Gly(A1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0610317,"insulin, des-Gly(A1)-des-Phe(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0611569,"insulin, AsnNH2(A21)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0612342,"insulin, tetrakis(3-nitro-Tyr)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0612378,"insulin, fluoresceinthiocarbamyl(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0612927,ATP-insulin conjugates
+C0795635,"insulin, regular, human",C0021641,Insulin,C0613284,"insulin, Asn(B12)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0613591,"insulin, butyrimidylpyridine disulfide-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0614076,"insulin, Leu(B24,B25)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0614165,"insulin, azoisobutyryl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0614339,"insulin, Nle(A2)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0614343,"insulin, carbonyl-bis-Met,N(alphal),N(epsilon)(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0614347,"insulin, des-Gly(1A)-N-((trimethylammonio)acetyl)Ile(2A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0615244,"insulin, dihydroxycyclohexylene-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0615784,"insulin, methoxy-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0616797,"insulin, 4-(azidophenylacetyl)-2,4-diaminobutyric acid(A1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0617005,"insulin, Ala(B24)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0617304,"insulin, disulfide-des-Ala(B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0617638,"insulin, Arg(B22)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0617744,"insulin, (2-nitro-azidophenylacetyl)(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0618331,"insulin, N-methylpyridinium"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0618584,"insulin, bis(tert-butyloxycarbonyl)desoctapeptide-phenylhydrazide-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0618823,"insulin, 3,5-diiodo-Tyr(A19)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0619003,"insulin, des-Asn(A21)-des-Ala(B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0619541,insulin B (22-30)
+C0795635,"insulin, regular, human",C0021641,Insulin,C0619608,"insulin, Pro(B21)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0619735,"insulin, polyethylene glycol(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0620337,"insulin, des(hexapeptide)(B25-30)-Ala(B23)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0620404,"insulin, Nle(B17)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0621499,"insulin, Asn(B10)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0621732,insulin B (20-30)
+C0795635,"insulin, regular, human",C0021641,Insulin,C0621734,insulin B (9-30)
+C0795635,"insulin, regular, human",C0021641,Insulin,C0621836,"insulin, (2-nitro-4-azidophenyl)-Gly(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0622744,"insulin, Gln(B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0622930,"insulin, Leu(A19)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0623349,insulin-dextran
+C0795635,"insulin, regular, human",C0021641,Insulin,C0624080,"insulin, N(alpha)(B1), biotinyl-epsilon-aminocaproyl-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0625128,"insulin, dicitraconyl Gly(A1)Phe(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0626113,"insulin, A(27)-B-insulin-like growth factor I"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0628782,"insulin, 3-(N-phenylacetyl)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0629690,insulin covalent aggregate
+C0795635,"insulin, regular, human",C0021641,Insulin,C0629769,"insulin, dodecoy(A1-B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0629771,"insulin, diacetyl(A1-B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632718,"insulin, N-Me-Ile(2A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632723,"insulin, N-Me-Val(3A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632755,"insulin, des-Asn(21)-CysNH2(20)(A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632760,"insulin, des-Asn(21)-Cys(20)-isopropylamide(A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632765,"insulin, Asn(21)-diethylamide(A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632770,"insulin, des-Asn(21)-Cys(20)-ethylamide(A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632775,"insulin, des-Asn(21)-Cys(20)-2,2,2-trifluoroethylamide(A)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0632877,"insulin, Gly(A1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0633110,colloidal gold-insulin complex
+C0795635,"insulin, regular, human",C0021641,Insulin,C0633788,acetylinsulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0634754,"insulin, (2,4,6-trinitrophenyl)sulfonyl(Al)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0635370,glycerol-insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0636815,"insulin, 4-fluorophenylalanine(A19)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0638143,insulin B-chain tetrapeptide amide B22-B25
+C0795635,"insulin, regular, human",C0021641,Insulin,C0638372,NovoSol Basal insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0638563,"insulin, despentapeptide (B26-B30)-HisNH2(B25)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0643685,"insulin, 4-succinylamidophenylmannopyranoside-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0643688,"insulin, 4-succinylamidophenylarabinopyranoside-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0647224,"2,4-dinitrophenol-insulin A chain-fluorescein conjugate"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0648107,"insulin, Glu(21) B-chain-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0648110,"insulin, Aib(21) B-chain-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0648113,"insulin, Aib(22) B-chain-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0648983,"2-(4-azidosalicylamido)ethyl-1,3-dithiopropionate insulin"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0652363,"insulin, W(B28),P(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0653718,"Insulin, Sulfated, Beef"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0656814,"insulin, Ser(B24)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0657490,benzoylphenylalanine(B25)insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0662186,"insulin, des(tetrapeptide)(B27-B30)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0673450,"insulin, N(epsilon)-palmitoyl Lys(B29)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0759350,"insulin, Arg(B0)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0769489,bis(9-fluorenylmethoxycarbonyl)insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0909989,cholera toxin B-insulin conjugate
+C0795635,"insulin, regular, human",C0021641,Insulin,C0915897,((2-sulfo)-9-fluorenylmethoxycarbonyl)3-insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0960400,N(epsilon)B29-(4-azidosalicyloyl) insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0960401,N(epsilon)B29-(4-azidotetrafluorobenzoyl-biocytinyl) insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0961403,"insulin, Lys(B29)-(N(epsilon)-myristoyl)-des(b30)"
+C0795635,"insulin, regular, human",C0021641,Insulin,C0962634,thyroxyl-insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C0965756,"ins-1 protein, C elegans"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1099171,"insulin, Glu(A8)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1099172,"insulin, Gln(A8)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1137830,NBI6024
+C0795635,"insulin, regular, human",C0021641,Insulin,C1175776,hexyl-insulin monoconjugate 2
+C0795635,"insulin, regular, human",C0021641,Insulin,C1176237,Exubera
+C0795635,"insulin, regular, human",C0021641,Insulin,C1258519,Lys(B29)(N-carboxynonadecanoyl)-des(B30) human insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C1311477,B27 Lys destripeptide insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C1313386,"insulin glulisine, human"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1433807,"insulin-like protein 6-kDa, Panulirus argus"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1579433,Insulin [EPC]
+C0795635,"insulin, regular, human",C0021641,Insulin,C1669500,glycated insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C1698737,"insulin, 6-(4-fluorobenzoyl)aminohexanoylphenylalanyl(B1)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1740193,"ins protein, zebrafish"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1742153,"Insb protein, zebrafish"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1742762,"Ins1 protein, mouse"
+C0795635,"insulin, regular, human",C0021641,Insulin,C1743122,B22 Glu des-B30 insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C1957875,Lys(B29)-N(epsilon)-lithocholoyl-gamma-Glu des(b30) insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C2717412,Auron-Misheil-Therapy
+C0795635,"insulin, regular, human",C0021641,Insulin,C2744528,PIns peptide
+C0795635,"insulin, regular, human",C0021641,Insulin,C2931279,"Growth Factors, Combined Defect of"
+C0795635,"insulin, regular, human",C0021641,Insulin,C3252670,"insulin, B(1-29)-valyl-glycyl-leucyl-seryl-seryl-glycyl-glutaminyl-A(1-21)-A18Q-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C3252671,"insulin, A8H,B25N,B27E,desB30-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C3253841,"Ins2 protein, mouse"
+C0795635,"insulin, regular, human",C0021641,Insulin,C3658137,"insulin, lysyl(B31)-arginyl(B32)-"
+C0795635,"insulin, regular, human",C0021641,Insulin,C3712707,ORMD-0801
+C0795635,"insulin, regular, human",C0021641,Insulin,C4044340,Somah
+C0795635,"insulin, regular, human",C0021641,Insulin,C4549738,neutral protamine lispro insulin
+C0795635,"insulin, regular, human",C0021641,Insulin,C4742625,MK-2640
+C0795635,"insulin, regular, human",C0356365,"Insulin, Short-Acting",,
+C0795635,"insulin, regular, human",C0795635,"insulin, regular, human",C0306371,Humulin R
+C0795635,"insulin, regular, human",C0795635,"insulin, regular, human",C0307073,Novolin R
+C0795635,"insulin, regular, human",C0795635,"insulin, regular, human",C1567659,Albulin
+C0795635,"insulin, regular, human",C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C0872972,pioglitazone hydrochloride,C0071097,pioglitazone,,
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0049098,"5-carboxymethyl-3-p-tolylthiazolidine-2,4-dione-2-acetophenone"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0050732,ADD 4743
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0055721,ciglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0082429,englitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0098020,risarestat
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0289779,"2,4-thiazolidinedione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0289781,AD 5075
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0380307,darglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0387481,BM 501050
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0387484,BM 131246
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0390193,"1,2,4-dithiazolidine-3,5-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0539898,"5-((2-(2-naphthalenylmethyl)-5-benzoxazolyl)methyl)-2,4-thiazolidinedione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0618066,AL 321
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0640758,"5-(2-naphthalenylsulfonyl)-2,4-thiazolidinedione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0674556,"5-((4-(2-(1-indolyl)ethoxy)-phenyl)methyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0756997,DN 108
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0769947,"5-(4-((1-(pyridin-2-yl)pyrrolidin-2-yl)methoxy)phenylmethylene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0908767,"2,3-dihydro-5H-naphtho(2,3-f)thiazolo(2,3-c)(1,4)thiazepine-5,13(1aH)-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0908768,"1,13a-dihydro-3H,5H,13H-naphtho(2,3-f)thiazolo(4,3-c)(1,4)thiazepine-5,13-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0960494,"5-(4-(5-methoxy-3-methyl-3H-imidazo(4,5-b)pyridin-2-ylmethoxy)benzyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C0971202,"5-(4-(N-(2-pyridyl)-(2S)-pyrrolidine-2-methoxy)phenylmethylene) thiazolidine-2,6-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1171928,"5-(4-(cyclohexylethoxy)benzylidene)-2,4-thiazolidinedione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1174669,"5-(4-(2-(2-ethyl-4-methyl-6-oxo-1,6-dihydro-1-pyrimidinyl)ethoxy)phenylmethyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1434033,N-desmethylrosiglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1434562,NIP-222
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1450228,"5-(3-(3-(4-phenoxy-2-propylphenoxy)propoxy)phenyl)-2,4-thiazolidinedione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1565336,DRF 2519
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1566435,balaglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1568506,"thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1568507,"thiazolidine-2,4-thione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1608713,5-(3-methoxyphenylidene)-2-phenylimino-3-propyl-4-thiazolidinone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1608760,5-(4-bromobenzylidene)-alpha-isopropyl-4-oxo-2-thioxo-3-thazolidineacetic acid
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1612833,"5-(2,2-difluorobenzo(1,3)dioxol-5-ylmethylene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1613938,"5-quinoxalin-6-ylmethylenethiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1667777,"5-adamantylpentanoic acid (2-(4-(2,4-dioxothiazolidin-5-ylmethyl)phenoxy)ethyl)(methyl)amide"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1684393,"5-(3,5-di-tert-butyl-4-hydroxybenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1701524,"3-benzyl-5-acridinylidene-thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1701525,"5-benzylidene-3-(4-methyl-benzyl)-thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1721279,netoglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1722321,M-II compound
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1722322,M-IV compound
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1722495,"5-((4-(2-(5-methyl-2-phenyl-oxazol-4-yl)ethoxy)benzo(2) thiophen-7-yl)methyl)-thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1738750,"5-(4-((6-(allyloxy)-2,5,7,8-tetramethylchroman-2-yl)methoxy)-3-methoxybenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1740164,"N-(2-(4-((2,4-dioxo-1,3-thiazolidin-5-yl)methyl)phenoxy)ethyl)-5-(1,2-dithiolan-3-yl)-N-methylpentanamide"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1741259,SB-271258
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1742397,"5-(5-(4-fluoro-2-hydroxyphenyl)furan-2-ylmethylene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C1958863,rivoglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2354943,"N-(-4-(N-(biphenyl-2-ylmethyl)-N-2-methylpropylamino)- 1-(2-(2,4-difluorobenzoyl)benzoyl)pyrrolidin- 2-yl)methyl-3-(4-(2,4-dioxothiazolidin-5-ylidenemethyl) phenyl)acrylamide"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2603738,"3-(3,4-dichlorobenzyl)-5-(3,4,5-trihydroxybenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2604364,"4-((5-bromo-4-((2,4-dioxo-3-(2-oxo-2-phenylethyl)-1,3-thiazolidin-5-ylidene)methyl)-2-ethoxyphenoxy)methyl)benzoic acid"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2605394,"3-(3,5-dichlorophenyl)-2,4-thiazolidinedione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2606662,R 147176
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2717153,"5-(4-hydroxy-3-trifluoromethylbenzylidene)-3-(1-methylcyclohexyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2717737,BLX 1002
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2744500,"3-(2-aminoethyl)-5-(4-ethoxybenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2744525,"5-(4-methoxybenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2744790,lobeglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2827204,efatutazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2933042,"N-((4-(biphenyl-2-ylmethoxy)-1-(2-(4-fluorobenzoyl)benzoyl)pyrrolidin-2-yl)methyl)-4-((2,4-dioxothiazolidin-5-ylidene)methyl)benzamide"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2933595,"N-(4-(3-(1-methyl-cyclohexylmethyl)-2,4-dioxothiazolidin-5-ylidenemethyl)phenyl)-4-nitro-3-trifluoromethylbenzenesulfonamide"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2974917,"3-benzyl-2-(4-fluorophenyl)-1,3-thiazolidin-4-one"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C2975374,"2-(3-((4-((2,4-dioxothiazolidin-5-ylidene)methyl)phenylamino)methyl)benzamido)pentanedioic acid"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3177997,"5-(4-(cyclopentylmethoxy)benzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3181702,"4-(4-fluorobenzyl)-2-p-tolyl-1,2,4-thiadiazolidine-3,5-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3253198,"5-(4-hydroxy-3,5-dimethylbenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3254577,"5-acridin-9-ylmethylene-3-(4-methyl-benzyl)-thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3490708,TD49 thiazolidinedione
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3493316,"5-(4-hydroxy-3-trifluoromethylbenzylidene)-3-(4,4,4-trifluoro-2-methyl-2-(2,2,2-trifluoroethyl)butyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3501613,"(Z)2-(5-(4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl)acetic acid"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3502193,"4-(4-(2,4-dioxothiazolidin-5-ylidenemethyl)-2-methoxyphenoxy)-3-trifluoromethylbenzonitrile"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3502265,"5-(5-bromo-2-methoxybenzylidene)-3-(4-methyl-benzyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3537039,Thiazolidinedione [EPC]
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3658481,"N-(3-chlorophenyl)-2-(4-((2,4-dioxothiazolidin-5-ylidene)methyl)phenoxy)acetamide"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3659302,"5-(4-chlorobenzylidene)-3-(4-methylbenzyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3659396,MSDC-0160
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3659481,CAY10506
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3659482,CAY10415
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3710974,"3-(2-aminoethyl)-5-(3-(4-butoxylphenyl)propylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3712091,5-hydroxyrosiglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3712366,"5-benzylidene thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3713012,"5-((5-bromo-1H-indol-3-yl)methylene)-3-(4-chlorobenzyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3713131,OSU-CG5
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3713258,"(Z)-5-(2,4-dihydroxybenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3849915,"3-benzyl-5-(1H-indol-3-ylmethylene)-thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3850820,"3-((3-((4-(4-morpholinylmethyl)-1H-pyrrol-2-yl)methylene)-2-oxo-2,3-dihydro-1H-indol-5-yl)methyl)-1,3-thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3851625,(2-(2-Phenoxy-1-(4-bromophenyl)ethylidene)hydrazono)-5-ethylthiazolidin-4-one
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3883839,"5-(4-(2-(5-ethylpyridin-2-yl)ethoxy)benzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C3885444,"chromonyl-2,4-thiazolidinedione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4043224,OSU-53
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4043392,"5-(2-chloro-3-(3-phenylpropoxy)benzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4077207,thiazolidinedione-8
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4078968,"3-tert-butoxycarbonylmethyl-5-(4-(2-(N-methyl-N-(2-pyridyl)amino)ethoxy)benzyl)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4079259,ZINC17167211
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4279338,iCTR14 compound
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4309924,GQ-177
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4507056,MSDC-0602
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4507958,"5-(3,5-di-tert-butyl-4-hydroxybenzyl)-4-hydroxythiazol-2(5H)-one"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4508662,5-hydroxypioglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4547665,"5-(3-trifluoromethylbenzylidene)thiazolidine-2,4-dione"
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4548702,FX1 thiazolidinedione compound
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4549838,SMI-4a compound
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4549860,MK-2305
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C4550178,BFF-816
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C5139806,leriglitazone
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C5435043,iCRT14
+C0872972,pioglitazone hydrochloride,C1257987,Thiazolidinediones,C5565109,(Z)-2-chloro-5-(5-((4-oxo-3-phenethyl-2-thioxothiazolidin-5-ylidene)methyl)furan-2-yl)benzoic acid
+C0903898,nateglinide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0903898,nateglinide,C0065880,Meglitinide,C2266929,Glinide [EPC]
+C0903898,nateglinide,C0359086,Oral hypoglycemic,,
+C0903898,nateglinide,C0903898,nateglinide,C1323198,Starlix
+C0903898,nateglinide,C3537178,Glinides,,
+C0907402,insulin glargine,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C0907402,insulin glargine,C0021641,Insulin,C0020616,hypoglykemika
+C0907402,insulin glargine,C0021641,Insulin,C0048080,"insulin, 4-azido-2-nitrophenyl-"
+C0907402,insulin glargine,C0021641,Insulin,C0051301,alpha-2-macroglobulin-insulin complex
+C0907402,insulin glargine,C0021641,Insulin,C0057819,"insulin, dicarbain(A7,B7)-"
+C0907402,insulin glargine,C0021641,Insulin,C0058735,DP 432
+C0907402,insulin glargine,C0021641,Insulin,C0061420,glucose-insulin-potassium cardioplegic solution
+C0907402,insulin glargine,C0021641,Insulin,C0063610,insulin dimers
+C0907402,insulin glargine,C0021641,Insulin,C0063617,"insulin, 4-azidobenzoyl(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063618,"insulin, 2,7-diaminosuberoyl, N(alpha)(A1), N(epsilon)(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063624,"insulin, (2-nitro-4-trimethylammoniophenyl)(A1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063626,"insulin, adipoyl-Arg(B22)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063627,"insulin, Ala(B0)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063628,"insulin, Ala(A1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063629,"insulin, Asp(B9)-Glu(B27)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063630,"insulin, (2-nitro-4-azidophenylacetyl)(B2)-des-Phe(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063631,"insulin, (2-nitro-4-azidophenylacetyl) (B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063632,"insulin, Arg(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063633,"insulin, biotinyl-"
+C0907402,insulin glargine,C0021641,Insulin,C0063634,"insulin, citraconyl-"
+C0907402,insulin glargine,C0021641,Insulin,C0063635,"insulin, depot-"
+C0907402,insulin glargine,C0021641,Insulin,C0063636,"insulin, des(heptapeptide)(B24-B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063637,"insulin, (B1)-des-Phe-"
+C0907402,insulin glargine,C0021641,Insulin,C0063638,"insulin, desamido-"
+C0907402,insulin glargine,C0021641,Insulin,C0063639,"insulin, deshexapeptide(B25-B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063640,"insulin, desoctapeptide-"
+C0907402,insulin glargine,C0021641,Insulin,C0063641,"insulin, despentapeptide(B26-B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063645,"insulin, despentapeptide (B26-B30)-TyrNH2(B25)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063646,"insulin, dethiobiotinyl-"
+C0907402,insulin glargine,C0021641,Insulin,C0063647,"insulin, fluorescein-isothiocyanated-"
+C0907402,insulin glargine,C0021641,Insulin,C0063648,"insulin, Gln(B13)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063650,"insulin, glycosylated"
+C0907402,insulin glargine,C0021641,Insulin,C0063651,"insulin, iodo-"
+C0907402,insulin glargine,C0021641,Insulin,C0063652,"insulin, 3-iodo-Tyr(A14)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063653,"insulin, Leu(B24)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063654,"insulin, Leu(B25)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063655,"insulin, Leu(B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063656,"insulin, Leu(A3)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063658,"insulin, Phe(A14)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063659,"insulin, Phe(A19)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063660,"insulin, Phe(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063662,"insulin, Ser(B25)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063663,"insulin, single chain des-(B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063664,"insulin, Phe(B24)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063665,"insulin, tri-Lys-"
+C0907402,insulin glargine,C0021641,Insulin,C0063666,"insulin, Trp(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063667,"insulin, Trp(A19)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063668,"insulin, Trp(A1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0063669,"Insulin, Ultratard"
+C0907402,insulin glargine,C0021641,Insulin,C0063672,insulin crosslinked to the catalytic fragment A of diphtheria toxin
+C0907402,insulin glargine,C0021641,Insulin,C0063681,insulin-related factor
+C0907402,insulin glargine,C0021641,Insulin,C0071928,preproinsulin
+C0907402,insulin glargine,C0021641,Insulin,C0077955,University of Wisconsin-lactobionate solution
+C0907402,insulin glargine,C0021641,Insulin,C0083018,"insulin, (2-nitro-4-azidophenyl)(A1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0083020,"insulin, 4-succinylamidophenylglucopyranoside-"
+C0907402,insulin glargine,C0021641,Insulin,C0083022,"insulin, Arg(B31,B32)-"
+C0907402,insulin glargine,C0021641,Insulin,C0114422,DKP-insulin
+C0907402,insulin glargine,C0021641,Insulin,C0123676,"insulin, Asp(B10)-"
+C0907402,insulin glargine,C0021641,Insulin,C0123682,"insulin, des-Ala-"
+C0907402,insulin glargine,C0021641,Insulin,C0168250,"insulin, B1-(4-azidosalicyloyl)-(B1-biocytin,B2-lysine)-"
+C0907402,insulin glargine,C0021641,Insulin,C0209305,"insulin, despentapeptide (B26-B30)-PheNH2(B25)-"
+C0907402,insulin glargine,C0021641,Insulin,C0213702,B29-biotin insulin
+C0907402,insulin glargine,C0021641,Insulin,C0249860,Leydig insulin-like protein
+C0907402,insulin glargine,C0021641,Insulin,C0250831,insulin fragment A(14-21)-B(17-30)
+C0907402,insulin glargine,C0021641,Insulin,C0253017,"insulin, Arg(B31)-"
+C0907402,insulin glargine,C0021641,Insulin,C0254207,"insulin, octadeutero-Phe(B1)-octadeutero-Val(B2)-"
+C0907402,insulin glargine,C0021641,Insulin,C0256728,"insulin, His(B16)-"
+C0907402,insulin glargine,C0021641,Insulin,C0283258,"insulin, desamido (A21)-"
+C0907402,insulin glargine,C0021641,Insulin,C0291665,B-insulin
+C0907402,insulin glargine,C0021641,Insulin,C0291667,NBC-insulin
+C0907402,insulin glargine,C0021641,Insulin,C0294827,BSA-insulin-chlorin e(6) conjugate
+C0907402,insulin glargine,C0021641,Insulin,C0296855,amphioxus insulin-like peptide
+C0907402,insulin glargine,C0021641,Insulin,C0383961,iodo(A14-tyrosyl)insulin
+C0907402,insulin glargine,C0021641,Insulin,C0386280,insulin B (9-23)
+C0907402,insulin glargine,C0021641,Insulin,C0390374,"insulin, desamido (B-3)"
+C0907402,insulin glargine,C0021641,Insulin,C0529318,"insulin, Ser(A6,A11)-"
+C0907402,insulin glargine,C0021641,Insulin,C0602919,"insulin, carboxymethyl-His-"
+C0907402,insulin glargine,C0021641,Insulin,C0604437,"insulin, Sar(9A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0604998,"insulin, hexamethylester-"
+C0907402,insulin glargine,C0021641,Insulin,C0605635,"insulin, trifluoroacetyl-"
+C0907402,insulin glargine,C0021641,Insulin,C0605837,"insulin, tris(N-methylpyridinium)-"
+C0907402,insulin glargine,C0021641,Insulin,C0605896,"insulin, Asp-imide(A21)-"
+C0907402,insulin glargine,C0021641,Insulin,C0607219,"insulin, triphthaloyl-"
+C0907402,insulin glargine,C0021641,Insulin,C0607815,"insulin, des(pentapeptide)(B1-B5)-"
+C0907402,insulin glargine,C0021641,Insulin,C0607817,"insulin, des(tetrapeptide)(B1-B4)-"
+C0907402,insulin glargine,C0021641,Insulin,C0609900,"insulin, N,N-bis(methylsulfonylethoxycarbonyl)-"
+C0907402,insulin glargine,C0021641,Insulin,C0610305,"insulin, des-Phe(B1)-des-Val(B2)-"
+C0907402,insulin glargine,C0021641,Insulin,C0610312,"insulin, des-Gly(A1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0610317,"insulin, des-Gly(A1)-des-Phe(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0611569,"insulin, AsnNH2(A21)-"
+C0907402,insulin glargine,C0021641,Insulin,C0612342,"insulin, tetrakis(3-nitro-Tyr)-"
+C0907402,insulin glargine,C0021641,Insulin,C0612378,"insulin, fluoresceinthiocarbamyl(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0612927,ATP-insulin conjugates
+C0907402,insulin glargine,C0021641,Insulin,C0613284,"insulin, Asn(B12)-"
+C0907402,insulin glargine,C0021641,Insulin,C0613591,"insulin, butyrimidylpyridine disulfide-"
+C0907402,insulin glargine,C0021641,Insulin,C0614076,"insulin, Leu(B24,B25)-"
+C0907402,insulin glargine,C0021641,Insulin,C0614165,"insulin, azoisobutyryl-"
+C0907402,insulin glargine,C0021641,Insulin,C0614339,"insulin, Nle(A2)-"
+C0907402,insulin glargine,C0021641,Insulin,C0614343,"insulin, carbonyl-bis-Met,N(alphal),N(epsilon)(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0614347,"insulin, des-Gly(1A)-N-((trimethylammonio)acetyl)Ile(2A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0615244,"insulin, dihydroxycyclohexylene-"
+C0907402,insulin glargine,C0021641,Insulin,C0615784,"insulin, methoxy-"
+C0907402,insulin glargine,C0021641,Insulin,C0616797,"insulin, 4-(azidophenylacetyl)-2,4-diaminobutyric acid(A1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0617005,"insulin, Ala(B24)-"
+C0907402,insulin glargine,C0021641,Insulin,C0617304,"insulin, disulfide-des-Ala(B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0617638,"insulin, Arg(B22)-"
+C0907402,insulin glargine,C0021641,Insulin,C0617744,"insulin, (2-nitro-azidophenylacetyl)(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0618331,"insulin, N-methylpyridinium"
+C0907402,insulin glargine,C0021641,Insulin,C0618584,"insulin, bis(tert-butyloxycarbonyl)desoctapeptide-phenylhydrazide-"
+C0907402,insulin glargine,C0021641,Insulin,C0618823,"insulin, 3,5-diiodo-Tyr(A19)-"
+C0907402,insulin glargine,C0021641,Insulin,C0619003,"insulin, des-Asn(A21)-des-Ala(B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0619541,insulin B (22-30)
+C0907402,insulin glargine,C0021641,Insulin,C0619608,"insulin, Pro(B21)-"
+C0907402,insulin glargine,C0021641,Insulin,C0619735,"insulin, polyethylene glycol(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0620337,"insulin, des(hexapeptide)(B25-30)-Ala(B23)-"
+C0907402,insulin glargine,C0021641,Insulin,C0620404,"insulin, Nle(B17)-"
+C0907402,insulin glargine,C0021641,Insulin,C0621499,"insulin, Asn(B10)-"
+C0907402,insulin glargine,C0021641,Insulin,C0621732,insulin B (20-30)
+C0907402,insulin glargine,C0021641,Insulin,C0621734,insulin B (9-30)
+C0907402,insulin glargine,C0021641,Insulin,C0621836,"insulin, (2-nitro-4-azidophenyl)-Gly(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0622744,"insulin, Gln(B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0622930,"insulin, Leu(A19)-"
+C0907402,insulin glargine,C0021641,Insulin,C0623349,insulin-dextran
+C0907402,insulin glargine,C0021641,Insulin,C0624080,"insulin, N(alpha)(B1), biotinyl-epsilon-aminocaproyl-"
+C0907402,insulin glargine,C0021641,Insulin,C0625128,"insulin, dicitraconyl Gly(A1)Phe(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0626113,"insulin, A(27)-B-insulin-like growth factor I"
+C0907402,insulin glargine,C0021641,Insulin,C0628782,"insulin, 3-(N-phenylacetyl)-"
+C0907402,insulin glargine,C0021641,Insulin,C0629690,insulin covalent aggregate
+C0907402,insulin glargine,C0021641,Insulin,C0629769,"insulin, dodecoy(A1-B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0629771,"insulin, diacetyl(A1-B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632718,"insulin, N-Me-Ile(2A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632723,"insulin, N-Me-Val(3A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632755,"insulin, des-Asn(21)-CysNH2(20)(A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632760,"insulin, des-Asn(21)-Cys(20)-isopropylamide(A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632765,"insulin, Asn(21)-diethylamide(A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632770,"insulin, des-Asn(21)-Cys(20)-ethylamide(A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632775,"insulin, des-Asn(21)-Cys(20)-2,2,2-trifluoroethylamide(A)-"
+C0907402,insulin glargine,C0021641,Insulin,C0632877,"insulin, Gly(A1)-"
+C0907402,insulin glargine,C0021641,Insulin,C0633110,colloidal gold-insulin complex
+C0907402,insulin glargine,C0021641,Insulin,C0633788,acetylinsulin
+C0907402,insulin glargine,C0021641,Insulin,C0634754,"insulin, (2,4,6-trinitrophenyl)sulfonyl(Al)-"
+C0907402,insulin glargine,C0021641,Insulin,C0635370,glycerol-insulin
+C0907402,insulin glargine,C0021641,Insulin,C0636815,"insulin, 4-fluorophenylalanine(A19)-"
+C0907402,insulin glargine,C0021641,Insulin,C0638143,insulin B-chain tetrapeptide amide B22-B25
+C0907402,insulin glargine,C0021641,Insulin,C0638372,NovoSol Basal insulin
+C0907402,insulin glargine,C0021641,Insulin,C0638563,"insulin, despentapeptide (B26-B30)-HisNH2(B25)-"
+C0907402,insulin glargine,C0021641,Insulin,C0643685,"insulin, 4-succinylamidophenylmannopyranoside-"
+C0907402,insulin glargine,C0021641,Insulin,C0643688,"insulin, 4-succinylamidophenylarabinopyranoside-"
+C0907402,insulin glargine,C0021641,Insulin,C0647224,"2,4-dinitrophenol-insulin A chain-fluorescein conjugate"
+C0907402,insulin glargine,C0021641,Insulin,C0648107,"insulin, Glu(21) B-chain-"
+C0907402,insulin glargine,C0021641,Insulin,C0648110,"insulin, Aib(21) B-chain-"
+C0907402,insulin glargine,C0021641,Insulin,C0648113,"insulin, Aib(22) B-chain-"
+C0907402,insulin glargine,C0021641,Insulin,C0648983,"2-(4-azidosalicylamido)ethyl-1,3-dithiopropionate insulin"
+C0907402,insulin glargine,C0021641,Insulin,C0652363,"insulin, W(B28),P(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0653718,"Insulin, Sulfated, Beef"
+C0907402,insulin glargine,C0021641,Insulin,C0656814,"insulin, Ser(B24)-"
+C0907402,insulin glargine,C0021641,Insulin,C0657490,benzoylphenylalanine(B25)insulin
+C0907402,insulin glargine,C0021641,Insulin,C0662186,"insulin, des(tetrapeptide)(B27-B30)-"
+C0907402,insulin glargine,C0021641,Insulin,C0673450,"insulin, N(epsilon)-palmitoyl Lys(B29)-"
+C0907402,insulin glargine,C0021641,Insulin,C0759350,"insulin, Arg(B0)-"
+C0907402,insulin glargine,C0021641,Insulin,C0769489,bis(9-fluorenylmethoxycarbonyl)insulin
+C0907402,insulin glargine,C0021641,Insulin,C0909989,cholera toxin B-insulin conjugate
+C0907402,insulin glargine,C0021641,Insulin,C0915897,((2-sulfo)-9-fluorenylmethoxycarbonyl)3-insulin
+C0907402,insulin glargine,C0021641,Insulin,C0960400,N(epsilon)B29-(4-azidosalicyloyl) insulin
+C0907402,insulin glargine,C0021641,Insulin,C0960401,N(epsilon)B29-(4-azidotetrafluorobenzoyl-biocytinyl) insulin
+C0907402,insulin glargine,C0021641,Insulin,C0961403,"insulin, Lys(B29)-(N(epsilon)-myristoyl)-des(b30)"
+C0907402,insulin glargine,C0021641,Insulin,C0962634,thyroxyl-insulin
+C0907402,insulin glargine,C0021641,Insulin,C0965756,"ins-1 protein, C elegans"
+C0907402,insulin glargine,C0021641,Insulin,C1099171,"insulin, Glu(A8)-"
+C0907402,insulin glargine,C0021641,Insulin,C1099172,"insulin, Gln(A8)-"
+C0907402,insulin glargine,C0021641,Insulin,C1137830,NBI6024
+C0907402,insulin glargine,C0021641,Insulin,C1175776,hexyl-insulin monoconjugate 2
+C0907402,insulin glargine,C0021641,Insulin,C1176237,Exubera
+C0907402,insulin glargine,C0021641,Insulin,C1258519,Lys(B29)(N-carboxynonadecanoyl)-des(B30) human insulin
+C0907402,insulin glargine,C0021641,Insulin,C1311477,B27 Lys destripeptide insulin
+C0907402,insulin glargine,C0021641,Insulin,C1313386,"insulin glulisine, human"
+C0907402,insulin glargine,C0021641,Insulin,C1433807,"insulin-like protein 6-kDa, Panulirus argus"
+C0907402,insulin glargine,C0021641,Insulin,C1579433,Insulin [EPC]
+C0907402,insulin glargine,C0021641,Insulin,C1669500,glycated insulin
+C0907402,insulin glargine,C0021641,Insulin,C1698737,"insulin, 6-(4-fluorobenzoyl)aminohexanoylphenylalanyl(B1)-"
+C0907402,insulin glargine,C0021641,Insulin,C1740193,"ins protein, zebrafish"
+C0907402,insulin glargine,C0021641,Insulin,C1742153,"Insb protein, zebrafish"
+C0907402,insulin glargine,C0021641,Insulin,C1742762,"Ins1 protein, mouse"
+C0907402,insulin glargine,C0021641,Insulin,C1743122,B22 Glu des-B30 insulin
+C0907402,insulin glargine,C0021641,Insulin,C1957875,Lys(B29)-N(epsilon)-lithocholoyl-gamma-Glu des(b30) insulin
+C0907402,insulin glargine,C0021641,Insulin,C2717412,Auron-Misheil-Therapy
+C0907402,insulin glargine,C0021641,Insulin,C2744528,PIns peptide
+C0907402,insulin glargine,C0021641,Insulin,C2931279,"Growth Factors, Combined Defect of"
+C0907402,insulin glargine,C0021641,Insulin,C3252670,"insulin, B(1-29)-valyl-glycyl-leucyl-seryl-seryl-glycyl-glutaminyl-A(1-21)-A18Q-"
+C0907402,insulin glargine,C0021641,Insulin,C3252671,"insulin, A8H,B25N,B27E,desB30-"
+C0907402,insulin glargine,C0021641,Insulin,C3253841,"Ins2 protein, mouse"
+C0907402,insulin glargine,C0021641,Insulin,C3658137,"insulin, lysyl(B31)-arginyl(B32)-"
+C0907402,insulin glargine,C0021641,Insulin,C3712707,ORMD-0801
+C0907402,insulin glargine,C0021641,Insulin,C4044340,Somah
+C0907402,insulin glargine,C0021641,Insulin,C4549738,neutral protamine lispro insulin
+C0907402,insulin glargine,C0021641,Insulin,C4742625,MK-2640
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C0021657,"Insulin, Globin Zinc"
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C1450894,"insulin, long-acting, beef"
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C1450895,"insulin, long-acting, human"
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C1567659,Albulin
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C3491971,insulin degludec
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C3658013,"insulin degludec, insulin aspart drug combination"
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C3712862,SCH 900948
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C4294565,Xultophy
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C4308663,IDegLira
+C0907402,insulin glargine,C0304870,"Insulin, Long-Acting",C5434213,insulin icodec
+C0907402,insulin glargine,C0650607,Basal insulin,,
+C0907402,insulin glargine,C0795635,"insulin, regular, human",C0306371,Humulin R
+C0907402,insulin glargine,C0795635,"insulin, regular, human",C0307073,Novolin R
+C0907402,insulin glargine,C0795635,"insulin, regular, human",C1567659,Albulin
+C0907402,insulin glargine,C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C0982221,"insulin lispro protamine, human",C0795635,"insulin, regular, human",C0306371,Humulin R
+C0982221,"insulin lispro protamine, human",C0795635,"insulin, regular, human",C0307073,Novolin R
+C0982221,"insulin lispro protamine, human",C0795635,"insulin, regular, human",C1567659,Albulin
+C0982221,"insulin lispro protamine, human",C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C1170011,"insulin aspart protamine, human",C0356365,"Insulin, Short-Acting",,
+C1170011,"insulin aspart protamine, human",C0795635,"insulin, regular, human",C0306371,Humulin R
+C1170011,"insulin aspart protamine, human",C0795635,"insulin, regular, human",C0307073,Novolin R
+C1170011,"insulin aspart protamine, human",C0795635,"insulin, regular, human",C1567659,Albulin
+C1170011,"insulin aspart protamine, human",C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C1174779,pramlintide acetate,C0935929,Antidiabetics,,
+C1313386,"insulin glulisine, human",C0020616,Hypoglycemic Agents,C0017687,glukagon
+C1313386,"insulin glulisine, human",C0356365,"Insulin, Short-Acting",,
+C1313386,"insulin glulisine, human",C0795635,"insulin, regular, human",C0306371,Humulin R
+C1313386,"insulin glulisine, human",C0795635,"insulin, regular, human",C0307073,Novolin R
+C1313386,"insulin glulisine, human",C0795635,"insulin, regular, human",C1567659,Albulin
+C1313386,"insulin glulisine, human",C0795635,"insulin, regular, human",C3711523,"insulin, CysA10-CysB4-desB30-"
+C1565750,sitagliptin,C0359086,Oral hypoglycemic,,
+C1565750,sitagliptin,C1827106,Dipeptidyl-Peptidase IV Inhibitors,C3537161,Dipeptidyl Peptidase 4 Inhibitor [EPC]
+C1611934,saxagliptin,C0359086,Oral hypoglycemic,,
+C1611934,saxagliptin,C1562292,Incretins,,
+C1611934,saxagliptin,C1827106,Dipeptidyl-Peptidase IV Inhibitors,C3537161,Dipeptidyl Peptidase 4 Inhibitor [EPC]
+C1667080,sitagliptin phosphate,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C1667080,sitagliptin phosphate,C0359086,Oral hypoglycemic,,
+C1667080,sitagliptin phosphate,C1562292,Incretins,,
+C1667080,sitagliptin phosphate,C1827106,Dipeptidyl-Peptidase IV Inhibitors,C3537161,Dipeptidyl Peptidase 4 Inhibitor [EPC]
+C1958126,alogliptin,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C1958126,alogliptin,C0359086,Oral hypoglycemic,,
+C1958126,alogliptin,C1562292,Incretins,,
+C1958126,alogliptin,C1827106,Dipeptidyl-Peptidase IV Inhibitors,C3537161,Dipeptidyl Peptidase 4 Inhibitor [EPC]
+C2353951,dapagliflozin,C0935929,Antidiabetics,,
+C2353951,dapagliflozin,C2353951,dapagliflozin,,
+C2353951,dapagliflozin,C3273807,Sodium-Glucose Transporter 2 Inhibitors,,
+C2353951,dapagliflozin,C3838944,Sodium glucose cotransporter subtype 2 inhibitor,C3542461,Sodium-Glucose Cotransporter 2 Inhibitor [EPC]
+C2607479,albiglutide,C0935929,Antidiabetics,,
+C2607479,albiglutide,C1562104,Product containing glucagon-like peptide 1 receptor agonist (product),C2917359,GLP-1 Receptor Agonist [EPC]
+C2698057,alogliptin benzoate,C1827106,Dipeptidyl-Peptidase IV Inhibitors,C3537161,Dipeptidyl Peptidase 4 Inhibitor [EPC]
+C2719771,saxagliptin hydrochloride,C1827106,Dipeptidyl-Peptidase IV Inhibitors,C3537161,Dipeptidyl Peptidase 4 Inhibitor [EPC]
+C2746078,linagliptin,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C2746078,linagliptin,C0359086,Oral hypoglycemic,,
+C2746078,linagliptin,C1562292,Incretins,,
+C2746078,linagliptin,C1827106,Dipeptidyl-Peptidase IV Inhibitors,C3537161,Dipeptidyl Peptidase 4 Inhibitor [EPC]
+C2973895,lixisenatide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C2973895,lixisenatide,C0935929,Antidiabetics,,
+C2973895,lixisenatide,C1562104,Product containing glucagon-like peptide 1 receptor agonist (product),C2917359,GLP-1 Receptor Agonist [EPC]
+C2974540,canagliflozin,C0935929,Antidiabetics,,
+C2974540,canagliflozin,C2974540,canagliflozin,C5434003,rongliflozin
+C2974540,canagliflozin,C3273807,Sodium-Glucose Transporter 2 Inhibitors,,
+C2974540,canagliflozin,C3838944,Sodium glucose cotransporter subtype 2 inhibitor,C3542461,Sodium-Glucose Cotransporter 2 Inhibitor [EPC]
+C2983989,canagliflozin anhydrous,C3273807,Sodium-Glucose Transporter 2 Inhibitors,,
+C3179549,dulaglutide,C0020616,Hypoglycemic Agents,C0017687,glukagon
+C3179549,dulaglutide,C0030956,Peptides,C2973895,lixisenatide
+C3179549,dulaglutide,C0935929,Antidiabetics,,
+C3179549,dulaglutide,C1562104,Product containing glucagon-like peptide 1 receptor agonist (product),C2917359,GLP-1 Receptor Agonist [EPC]
+C3179549,dulaglutide,C3179549,dulaglutide,C3858044,Trulicity
+C3490348,empagliflozin,C0935929,Antidiabetics,,
+C3490348,empagliflozin,C3273807,Sodium-Glucose Transporter 2 Inhibitors,,
+C3490348,empagliflozin,C3490348,empagliflozin,C3848669,Jardiance
+C3490348,empagliflozin,C3838944,Sodium glucose cotransporter subtype 2 inhibitor,C3542461,Sodium-Glucose Cotransporter 2 Inhibitor [EPC]
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C0304232,Type of drug preparation
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C0304463,Alkalinizing agent (substance)
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C0304599,Pediculicide
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C0521952,Ceruminolytic agent
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C3850437,yi bu a jie
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C4044657,CNX-011-67
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C4308375,xueyu danhuang
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C4309507,LASAP-C
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C4310014,ikwitang
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C4310033,alpha BRAIN
+C3491971,insulin degludec,C0013227,Pharmaceutical Preparations,C4549708,eppikajutsuto
+C3491971,insulin degludec,C0021641,Insulin,C0020616,hypoglykemika
+C3491971,insulin degludec,C0021641,Insulin,C0048080,"insulin, 4-azido-2-nitrophenyl-"
+C3491971,insulin degludec,C0021641,Insulin,C0051301,alpha-2-macroglobulin-insulin complex
+C3491971,insulin degludec,C0021641,Insulin,C0057819,"insulin, dicarbain(A7,B7)-"
+C3491971,insulin degludec,C0021641,Insulin,C0058735,DP 432
+C3491971,insulin degludec,C0021641,Insulin,C0061420,glucose-insulin-potassium cardioplegic solution
+C3491971,insulin degludec,C0021641,Insulin,C0063610,insulin dimers
+C3491971,insulin degludec,C0021641,Insulin,C0063617,"insulin, 4-azidobenzoyl(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063618,"insulin, 2,7-diaminosuberoyl, N(alpha)(A1), N(epsilon)(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063624,"insulin, (2-nitro-4-trimethylammoniophenyl)(A1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063626,"insulin, adipoyl-Arg(B22)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063627,"insulin, Ala(B0)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063628,"insulin, Ala(A1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063629,"insulin, Asp(B9)-Glu(B27)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063630,"insulin, (2-nitro-4-azidophenylacetyl)(B2)-des-Phe(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063631,"insulin, (2-nitro-4-azidophenylacetyl) (B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063632,"insulin, Arg(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063633,"insulin, biotinyl-"
+C3491971,insulin degludec,C0021641,Insulin,C0063634,"insulin, citraconyl-"
+C3491971,insulin degludec,C0021641,Insulin,C0063635,"insulin, depot-"
+C3491971,insulin degludec,C0021641,Insulin,C0063636,"insulin, des(heptapeptide)(B24-B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063637,"insulin, (B1)-des-Phe-"
+C3491971,insulin degludec,C0021641,Insulin,C0063638,"insulin, desamido-"
+C3491971,insulin degludec,C0021641,Insulin,C0063639,"insulin, deshexapeptide(B25-B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063640,"insulin, desoctapeptide-"
+C3491971,insulin degludec,C0021641,Insulin,C0063641,"insulin, despentapeptide(B26-B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063645,"insulin, despentapeptide (B26-B30)-TyrNH2(B25)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063646,"insulin, dethiobiotinyl-"
+C3491971,insulin degludec,C0021641,Insulin,C0063647,"insulin, fluorescein-isothiocyanated-"
+C3491971,insulin degludec,C0021641,Insulin,C0063648,"insulin, Gln(B13)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063650,"insulin, glycosylated"
+C3491971,insulin degludec,C0021641,Insulin,C0063651,"insulin, iodo-"
+C3491971,insulin degludec,C0021641,Insulin,C0063652,"insulin, 3-iodo-Tyr(A14)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063653,"insulin, Leu(B24)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063654,"insulin, Leu(B25)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063655,"insulin, Leu(B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063656,"insulin, Leu(A3)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063658,"insulin, Phe(A14)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063659,"insulin, Phe(A19)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063660,"insulin, Phe(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063662,"insulin, Ser(B25)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063663,"insulin, single chain des-(B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063664,"insulin, Phe(B24)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063665,"insulin, tri-Lys-"
+C3491971,insulin degludec,C0021641,Insulin,C0063666,"insulin, Trp(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063667,"insulin, Trp(A19)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063668,"insulin, Trp(A1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0063669,"Insulin, Ultratard"
+C3491971,insulin degludec,C0021641,Insulin,C0063672,insulin crosslinked to the catalytic fragment A of diphtheria toxin
+C3491971,insulin degludec,C0021641,Insulin,C0063681,insulin-related factor
+C3491971,insulin degludec,C0021641,Insulin,C0071928,preproinsulin
+C3491971,insulin degludec,C0021641,Insulin,C0077955,University of Wisconsin-lactobionate solution
+C3491971,insulin degludec,C0021641,Insulin,C0083018,"insulin, (2-nitro-4-azidophenyl)(A1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0083020,"insulin, 4-succinylamidophenylglucopyranoside-"
+C3491971,insulin degludec,C0021641,Insulin,C0083022,"insulin, Arg(B31,B32)-"
+C3491971,insulin degludec,C0021641,Insulin,C0114422,DKP-insulin
+C3491971,insulin degludec,C0021641,Insulin,C0123676,"insulin, Asp(B10)-"
+C3491971,insulin degludec,C0021641,Insulin,C0123682,"insulin, des-Ala-"
+C3491971,insulin degludec,C0021641,Insulin,C0168250,"insulin, B1-(4-azidosalicyloyl)-(B1-biocytin,B2-lysine)-"
+C3491971,insulin degludec,C0021641,Insulin,C0209305,"insulin, despentapeptide (B26-B30)-PheNH2(B25)-"
+C3491971,insulin degludec,C0021641,Insulin,C0213702,B29-biotin insulin
+C3491971,insulin degludec,C0021641,Insulin,C0249860,Leydig insulin-like protein
+C3491971,insulin degludec,C0021641,Insulin,C0250831,insulin fragment A(14-21)-B(17-30)
+C3491971,insulin degludec,C0021641,Insulin,C0253017,"insulin, Arg(B31)-"
+C3491971,insulin degludec,C0021641,Insulin,C0254207,"insulin, octadeutero-Phe(B1)-octadeutero-Val(B2)-"
+C3491971,insulin degludec,C0021641,Insulin,C0256728,"insulin, His(B16)-"
+C3491971,insulin degludec,C0021641,Insulin,C0283258,"insulin, desamido (A21)-"
+C3491971,insulin degludec,C0021641,Insulin,C0291665,B-insulin
+C3491971,insulin degludec,C0021641,Insulin,C0291667,NBC-insulin
+C3491971,insulin degludec,C0021641,Insulin,C0294827,BSA-insulin-chlorin e(6) conjugate
+C3491971,insulin degludec,C0021641,Insulin,C0296855,amphioxus insulin-like peptide
+C3491971,insulin degludec,C0021641,Insulin,C0383961,iodo(A14-tyrosyl)insulin
+C3491971,insulin degludec,C0021641,Insulin,C0386280,insulin B (9-23)
+C3491971,insulin degludec,C0021641,Insulin,C0390374,"insulin, desamido (B-3)"
+C3491971,insulin degludec,C0021641,Insulin,C0529318,"insulin, Ser(A6,A11)-"
+C3491971,insulin degludec,C0021641,Insulin,C0602919,"insulin, carboxymethyl-His-"
+C3491971,insulin degludec,C0021641,Insulin,C0604437,"insulin, Sar(9A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0604998,"insulin, hexamethylester-"
+C3491971,insulin degludec,C0021641,Insulin,C0605635,"insulin, trifluoroacetyl-"
+C3491971,insulin degludec,C0021641,Insulin,C0605837,"insulin, tris(N-methylpyridinium)-"
+C3491971,insulin degludec,C0021641,Insulin,C0605896,"insulin, Asp-imide(A21)-"
+C3491971,insulin degludec,C0021641,Insulin,C0607219,"insulin, triphthaloyl-"
+C3491971,insulin degludec,C0021641,Insulin,C0607815,"insulin, des(pentapeptide)(B1-B5)-"
+C3491971,insulin degludec,C0021641,Insulin,C0607817,"insulin, des(tetrapeptide)(B1-B4)-"
+C3491971,insulin degludec,C0021641,Insulin,C0609900,"insulin, N,N-bis(methylsulfonylethoxycarbonyl)-"
+C3491971,insulin degludec,C0021641,Insulin,C0610305,"insulin, des-Phe(B1)-des-Val(B2)-"
+C3491971,insulin degludec,C0021641,Insulin,C0610312,"insulin, des-Gly(A1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0610317,"insulin, des-Gly(A1)-des-Phe(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0611569,"insulin, AsnNH2(A21)-"
+C3491971,insulin degludec,C0021641,Insulin,C0612342,"insulin, tetrakis(3-nitro-Tyr)-"
+C3491971,insulin degludec,C0021641,Insulin,C0612378,"insulin, fluoresceinthiocarbamyl(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0612927,ATP-insulin conjugates
+C3491971,insulin degludec,C0021641,Insulin,C0613284,"insulin, Asn(B12)-"
+C3491971,insulin degludec,C0021641,Insulin,C0613591,"insulin, butyrimidylpyridine disulfide-"
+C3491971,insulin degludec,C0021641,Insulin,C0614076,"insulin, Leu(B24,B25)-"
+C3491971,insulin degludec,C0021641,Insulin,C0614165,"insulin, azoisobutyryl-"
+C3491971,insulin degludec,C0021641,Insulin,C0614339,"insulin, Nle(A2)-"
+C3491971,insulin degludec,C0021641,Insulin,C0614343,"insulin, carbonyl-bis-Met,N(alphal),N(epsilon)(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0614347,"insulin, des-Gly(1A)-N-((trimethylammonio)acetyl)Ile(2A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0615244,"insulin, dihydroxycyclohexylene-"
+C3491971,insulin degludec,C0021641,Insulin,C0615784,"insulin, methoxy-"
+C3491971,insulin degludec,C0021641,Insulin,C0616797,"insulin, 4-(azidophenylacetyl)-2,4-diaminobutyric acid(A1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0617005,"insulin, Ala(B24)-"
+C3491971,insulin degludec,C0021641,Insulin,C0617304,"insulin, disulfide-des-Ala(B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0617638,"insulin, Arg(B22)-"
+C3491971,insulin degludec,C0021641,Insulin,C0617744,"insulin, (2-nitro-azidophenylacetyl)(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0618331,"insulin, N-methylpyridinium"
+C3491971,insulin degludec,C0021641,Insulin,C0618584,"insulin, bis(tert-butyloxycarbonyl)desoctapeptide-phenylhydrazide-"
+C3491971,insulin degludec,C0021641,Insulin,C0618823,"insulin, 3,5-diiodo-Tyr(A19)-"
+C3491971,insulin degludec,C0021641,Insulin,C0619003,"insulin, des-Asn(A21)-des-Ala(B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0619541,insulin B (22-30)
+C3491971,insulin degludec,C0021641,Insulin,C0619608,"insulin, Pro(B21)-"
+C3491971,insulin degludec,C0021641,Insulin,C0619735,"insulin, polyethylene glycol(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0620337,"insulin, des(hexapeptide)(B25-30)-Ala(B23)-"
+C3491971,insulin degludec,C0021641,Insulin,C0620404,"insulin, Nle(B17)-"
+C3491971,insulin degludec,C0021641,Insulin,C0621499,"insulin, Asn(B10)-"
+C3491971,insulin degludec,C0021641,Insulin,C0621732,insulin B (20-30)
+C3491971,insulin degludec,C0021641,Insulin,C0621734,insulin B (9-30)
+C3491971,insulin degludec,C0021641,Insulin,C0621836,"insulin, (2-nitro-4-azidophenyl)-Gly(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0622744,"insulin, Gln(B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0622930,"insulin, Leu(A19)-"
+C3491971,insulin degludec,C0021641,Insulin,C0623349,insulin-dextran
+C3491971,insulin degludec,C0021641,Insulin,C0624080,"insulin, N(alpha)(B1), biotinyl-epsilon-aminocaproyl-"
+C3491971,insulin degludec,C0021641,Insulin,C0625128,"insulin, dicitraconyl Gly(A1)Phe(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0626113,"insulin, A(27)-B-insulin-like growth factor I"
+C3491971,insulin degludec,C0021641,Insulin,C0628782,"insulin, 3-(N-phenylacetyl)-"
+C3491971,insulin degludec,C0021641,Insulin,C0629690,insulin covalent aggregate
+C3491971,insulin degludec,C0021641,Insulin,C0629769,"insulin, dodecoy(A1-B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0629771,"insulin, diacetyl(A1-B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632718,"insulin, N-Me-Ile(2A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632723,"insulin, N-Me-Val(3A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632755,"insulin, des-Asn(21)-CysNH2(20)(A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632760,"insulin, des-Asn(21)-Cys(20)-isopropylamide(A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632765,"insulin, Asn(21)-diethylamide(A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632770,"insulin, des-Asn(21)-Cys(20)-ethylamide(A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632775,"insulin, des-Asn(21)-Cys(20)-2,2,2-trifluoroethylamide(A)-"
+C3491971,insulin degludec,C0021641,Insulin,C0632877,"insulin, Gly(A1)-"
+C3491971,insulin degludec,C0021641,Insulin,C0633110,colloidal gold-insulin complex
+C3491971,insulin degludec,C0021641,Insulin,C0633788,acetylinsulin
+C3491971,insulin degludec,C0021641,Insulin,C0634754,"insulin, (2,4,6-trinitrophenyl)sulfonyl(Al)-"
+C3491971,insulin degludec,C0021641,Insulin,C0635370,glycerol-insulin
+C3491971,insulin degludec,C0021641,Insulin,C0636815,"insulin, 4-fluorophenylalanine(A19)-"
+C3491971,insulin degludec,C0021641,Insulin,C0638143,insulin B-chain tetrapeptide amide B22-B25
+C3491971,insulin degludec,C0021641,Insulin,C0638372,NovoSol Basal insulin
+C3491971,insulin degludec,C0021641,Insulin,C0638563,"insulin, despentapeptide (B26-B30)-HisNH2(B25)-"
+C3491971,insulin degludec,C0021641,Insulin,C0643685,"insulin, 4-succinylamidophenylmannopyranoside-"
+C3491971,insulin degludec,C0021641,Insulin,C0643688,"insulin, 4-succinylamidophenylarabinopyranoside-"
+C3491971,insulin degludec,C0021641,Insulin,C0647224,"2,4-dinitrophenol-insulin A chain-fluorescein conjugate"
+C3491971,insulin degludec,C0021641,Insulin,C0648107,"insulin, Glu(21) B-chain-"
+C3491971,insulin degludec,C0021641,Insulin,C0648110,"insulin, Aib(21) B-chain-"
+C3491971,insulin degludec,C0021641,Insulin,C0648113,"insulin, Aib(22) B-chain-"
+C3491971,insulin degludec,C0021641,Insulin,C0648983,"2-(4-azidosalicylamido)ethyl-1,3-dithiopropionate insulin"
+C3491971,insulin degludec,C0021641,Insulin,C0652363,"insulin, W(B28),P(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0653718,"Insulin, Sulfated, Beef"
+C3491971,insulin degludec,C0021641,Insulin,C0656814,"insulin, Ser(B24)-"
+C3491971,insulin degludec,C0021641,Insulin,C0657490,benzoylphenylalanine(B25)insulin
+C3491971,insulin degludec,C0021641,Insulin,C0662186,"insulin, des(tetrapeptide)(B27-B30)-"
+C3491971,insulin degludec,C0021641,Insulin,C0673450,"insulin, N(epsilon)-palmitoyl Lys(B29)-"
+C3491971,insulin degludec,C0021641,Insulin,C0759350,"insulin, Arg(B0)-"
+C3491971,insulin degludec,C0021641,Insulin,C0769489,bis(9-fluorenylmethoxycarbonyl)insulin
+C3491971,insulin degludec,C0021641,Insulin,C0909989,cholera toxin B-insulin conjugate
+C3491971,insulin degludec,C0021641,Insulin,C0915897,((2-sulfo)-9-fluorenylmethoxycarbonyl)3-insulin
+C3491971,insulin degludec,C0021641,Insulin,C0960400,N(epsilon)B29-(4-azidosalicyloyl) insulin
+C3491971,insulin degludec,C0021641,Insulin,C0960401,N(epsilon)B29-(4-azidotetrafluorobenzoyl-biocytinyl) insulin
+C3491971,insulin degludec,C0021641,Insulin,C0961403,"insulin, Lys(B29)-(N(epsilon)-myristoyl)-des(b30)"
+C3491971,insulin degludec,C0021641,Insulin,C0962634,thyroxyl-insulin
+C3491971,insulin degludec,C0021641,Insulin,C0965756,"ins-1 protein, C elegans"
+C3491971,insulin degludec,C0021641,Insulin,C1099171,"insulin, Glu(A8)-"
+C3491971,insulin degludec,C0021641,Insulin,C1099172,"insulin, Gln(A8)-"
+C3491971,insulin degludec,C0021641,Insulin,C1137830,NBI6024
+C3491971,insulin degludec,C0021641,Insulin,C1175776,hexyl-insulin monoconjugate 2
+C3491971,insulin degludec,C0021641,Insulin,C1176237,Exubera
+C3491971,insulin degludec,C0021641,Insulin,C1258519,Lys(B29)(N-carboxynonadecanoyl)-des(B30) human insulin
+C3491971,insulin degludec,C0021641,Insulin,C1311477,B27 Lys destripeptide insulin
+C3491971,insulin degludec,C0021641,Insulin,C1313386,"insulin glulisine, human"
+C3491971,insulin degludec,C0021641,Insulin,C1433807,"insulin-like protein 6-kDa, Panulirus argus"
+C3491971,insulin degludec,C0021641,Insulin,C1579433,Insulin [EPC]
+C3491971,insulin degludec,C0021641,Insulin,C1669500,glycated insulin
+C3491971,insulin degludec,C0021641,Insulin,C1698737,"insulin, 6-(4-fluorobenzoyl)aminohexanoylphenylalanyl(B1)-"
+C3491971,insulin degludec,C0021641,Insulin,C1740193,"ins protein, zebrafish"
+C3491971,insulin degludec,C0021641,Insulin,C1742153,"Insb protein, zebrafish"
+C3491971,insulin degludec,C0021641,Insulin,C1742762,"Ins1 protein, mouse"
+C3491971,insulin degludec,C0021641,Insulin,C1743122,B22 Glu des-B30 insulin
+C3491971,insulin degludec,C0021641,Insulin,C1957875,Lys(B29)-N(epsilon)-lithocholoyl-gamma-Glu des(b30) insulin
+C3491971,insulin degludec,C0021641,Insulin,C2717412,Auron-Misheil-Therapy
+C3491971,insulin degludec,C0021641,Insulin,C2744528,PIns peptide
+C3491971,insulin degludec,C0021641,Insulin,C2931279,"Growth Factors, Combined Defect of"
+C3491971,insulin degludec,C0021641,Insulin,C3252670,"insulin, B(1-29)-valyl-glycyl-leucyl-seryl-seryl-glycyl-glutaminyl-A(1-21)-A18Q-"
+C3491971,insulin degludec,C0021641,Insulin,C3252671,"insulin, A8H,B25N,B27E,desB30-"
+C3491971,insulin degludec,C0021641,Insulin,C3253841,"Ins2 protein, mouse"
+C3491971,insulin degludec,C0021641,Insulin,C3658137,"insulin, lysyl(B31)-arginyl(B32)-"
+C3491971,insulin degludec,C0021641,Insulin,C3712707,ORMD-0801
+C3491971,insulin degludec,C0021641,Insulin,C4044340,Somah
+C3491971,insulin degludec,C0021641,Insulin,C4549738,neutral protamine lispro insulin
+C3491971,insulin degludec,C0021641,Insulin,C4742625,MK-2640
+C3555622,dapagliflozin propanediol,C2353951,dapagliflozin,,
+C3555622,dapagliflozin propanediol,C3273807,Sodium-Glucose Transporter 2 Inhibitors,,
+C3555622,dapagliflozin propanediol,C3838944,Sodium glucose cotransporter subtype 2 inhibitor,C3542461,Sodium-Glucose Cotransporter 2 Inhibitor [EPC]

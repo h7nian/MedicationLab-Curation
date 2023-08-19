@@ -1,0 +1,81 @@
+---
+title: "MerckManualLabMapping"
+author: "张思念"
+date: "2023-04-15"
+output: html_document
+---
+
+## Import Library
+```{r}
+rm(list=ls())
+library(openxlsx)
+library(dplyr)
+library(stringr)
+```
+
+## Import Data
+
+```{r}
+KESERResults = read.csv("~/Desktop/Minnesota/Medication&Lab/LabAgg/Result.csv")
+
+BloodTest = read.xlsx("~/Desktop/Minnesota/Medication&Lab/MerckManualExcel/BloodTests.xlsx")
+CSFTest = read.xlsx("~/Desktop/Minnesota/Medication&Lab/MerckManualExcel/CSFTests.xlsx")
+OtherTest = read.xlsx("~/Desktop/Minnesota/Medication&Lab/MerckManualExcel/OtherTests.xlsx")
+StoolTest = read.xlsx("~/Desktop/Minnesota/Medication&Lab/MerckManualExcel/StoolTests.xlsx")
+UrineTest = read.xlsx("~/Desktop/Minnesota/Medication&Lab/MerckManualExcel/UrineTests.xlsx")
+MerckManualTests = rbind(BloodTest,CSFTest,OtherTest,StoolTest,UrineTest)
+MerckManualTests
+```
+
+```{r}
+KESERResults
+```
+
+## Mapping
+
+```{r}
+library(stringr)
+library(PTXQC) # Get Longest Common Substring
+
+
+fuzzy_match <- function(target,str, threshold = 0.3) 
+{
+  if (is.na(str)||is.na(target))
+  {
+    return(F)
+  }
+  # 将str和target转换为小写，并去除前导和尾随空格
+  str <- str_to_lower(str_trim(str))
+  target <- str_to_lower(str_trim(target))
+
+  substr = PTXQC::LCS(str,target)
+  
+  similarity = (nchar(substr)+1)/(nchar(str)+1)
+  
+  # 如果相似度大于阈值，则认为匹配成功
+  if (!is.na(similarity) && similarity > threshold) {
+    return(TRUE)
+  } else {
+    return(FALSE)
+  }
+}
+
+result = NULL
+
+for (i in 1:nrow(KESERResults)) 
+{
+  pattern <- KESERResults$Str[i]
+  matches <- MerckManualTests[sapply(MerckManualTests$Test, fuzzy_match, pattern), ]
+  if (nrow(matches) > 0) {
+    matches <- cbind(matches,do.call(rbind, replicate(nrow(matches),KESERResults[i,], simplify = FALSE)))
+    result = rbind(result,matches)
+  }
+}
+result
+
+```
+
+```{r}
+library(tidyverse)
+write_excel_csv(result[which(result$Code!="ShortName"),],file="FinalResult.csv")
+```

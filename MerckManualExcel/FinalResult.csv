@@ -1,0 +1,190 @@
+﻿Test,Specimen,Conventional.Units,SI.Units,X,Code,Str
+Potassium,Serum,3.5–5 mEq/L,3.5–5 mmol/L,1,C0202194,Potassium measurement
+Potassium,"Urine, 24 hours",25–100 mEq/24 hours,25–100 mmol/24 hours,1,C0202194,Potassium measurement
+"Cholesterol, desirable level: High-density lipoprotein(HDL-C)",Plasma,≥ 40 mg/dL,≥ 1.04 mmol/L,2,C0201950,Cholesterol measurement test
+"Cholesterol, desirable level: Low-density lipoprotein (LDL-C)",Plasma,≤ 130 mg/dL,≤ 3.36 mmol/L,2,C0201950,Cholesterol measurement test
+"Insulin, fasting",Serum,2.6–24.9 mcIU/mL,15.6–149.4 pmol/L,3,C0202098,Insulin measurement
+"Prostate-specific antigen,total (PSA-T)",Serum,0–4 ng/mL,0–4 mcg/L,4,C0201544,Prostate specific antigen measurement
+"Prostate-specific antigen, ratio of free to total (PSA-F:PSA-T)",Serum,> 0.25,—,4,C0201544,Prostate specific antigen measurement
+Glucose: 2-hour postprandial,Plasma,< 140 mg/dL,< 7.8 mmol/L,5,C0337438,Glucose measurement
+Glucose: Fasting,Plasma,70–105 mg/dL,3.9–5.8 mmol/L,5,C0337438,Glucose measurement
+Glucose-6-phosphate dehydrogenase (G6PD),Blood,5–15 U/g Hb,0.32–0.97 mU/ mol Hb,5,C0337438,Glucose measurement
+Glucose-6-phosphatedehydrogenase (G6PD),Serum,Adult male: 8–61 U/L  Adult female: 5–36U/L,Adult male:0.14–1.03mckat/L Adult female:0.09–0.61mckat/L,5,C0337438,Glucose measurement
+Growth hormone: After oral glucose,Plasma,< 2 ng/mL,< 2 mcg/L,5,C0337438,Glucose measurement
+Glucose,NA,40–80 mg/dL (< 40% ofsimultaneously measured plasmalevel if that plasma level isabnormal),2.2–4.4 mmol/L (< 40% of simultaneously measuredplasma level is abnormal),5,C0337438,Glucose measurement
+"Urinalysis, routine, dipsticktesting†: Glucose","Urine,random",Negative,—,5,C0337438,Glucose measurement
+Triglycerides (fasting),Serum,"Normal: < 150 mg/dL High: 200–499 mg/dL
+Very high: ≥ 500mg/dL",Normal: <1.69 mmol/L Borderline:1.69–2.25mmol/L High:2.26–5.64 mmol/L Very high: >5.65 mmol/L,6,C0202236,Triglycerides measurement
+Urea nitrogen (BUN),Serum,8–20 mg/dL,2.9–7.1 mmol/L,7,C0005845,Blood urea nitrogen measurement
+Growth hormone: After oral glucose,Plasma,< 2 ng/mL,< 2 mcg/L,8,C0202042,Plasma Glucose Measurement
+"Urinalysis, routine, dipsticktesting†: Glucose","Urine,random",Negative,—,8,C0202042,Plasma Glucose Measurement
+Carboxyhemoglobin,Plasma,0.5–5%,—,9,C0202054,Glucohemoglobin measurement
+Hemoglobin: Females,Blood,12–16 g/dL,120–160 g/L,9,C0202054,Glucohemoglobin measurement
+Hemoglobin: Males,Blood,14–17 g/dL,140–170 g/L,9,C0202054,Glucohemoglobin measurement
+Hemoglobin A1C,Blood,4.7–8.5%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, adults: Hb A1",Blood,95–98%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, adults: Hb A2",Blood,2–3%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, adults: Hb C",Blood,0%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, adults: Hb F",Blood,0.8–2.0%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, adults: Hb S",Blood,0%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, Hb F in children:",NA,NA,NA,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, Hb F in children: Neonate",Blood,50–80%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, Hb F in children: 1–6 months",Blood,8%,—,9,C0202054,Glucohemoglobin measurement
+"Hemoglobin electrophoresis, Hb F in children: > 6 months",Blood,1–2%,—,9,C0202054,Glucohemoglobin measurement
+Mean corpuscular hemoglobin (MCH),Blood,28–32 pg,—,9,C0202054,Glucohemoglobin measurement
+Mean corpuscularhemoglobin concentration(MCHC),Blood,32–36 g/dL,320–360 g/L,9,C0202054,Glucohemoglobin measurement
+Methemoglobin,Blood,< 1.0%,—,9,C0202054,Glucohemoglobin measurement
+Glucose: 2-hour postprandial,Plasma,< 140 mg/dL,< 7.8 mmol/L,10,C0392201,Blood glucose measurement
+Glucose: Fasting,Plasma,70–105 mg/dL,3.9–5.8 mmol/L,10,C0392201,Blood glucose measurement
+Glucose-6-phosphate dehydrogenase (G6PD),Blood,5–15 U/g Hb,0.32–0.97 mU/ mol Hb,10,C0392201,Blood glucose measurement
+Glucose-6-phosphatedehydrogenase (G6PD),Serum,Adult male: 8–61 U/L  Adult female: 5–36U/L,Adult male:0.14–1.03mckat/L Adult female:0.09–0.61mckat/L,10,C0392201,Blood glucose measurement
+Growth hormone: After oral glucose,Plasma,< 2 ng/mL,< 2 mcg/L,10,C0392201,Blood glucose measurement
+Glucose,NA,40–80 mg/dL (< 40% ofsimultaneously measured plasmalevel if that plasma level isabnormal),2.2–4.4 mmol/L (< 40% of simultaneously measuredplasma level is abnormal),10,C0392201,Blood glucose measurement
+"Urinalysis, routine, dipsticktesting†: Glucose","Urine,random",Negative,—,10,C0392201,Blood glucose measurement
+Antidiuretic hormone(ADH; arginine vasopressin),Plasma,< 1.7 pg/mL,< 1.57 pmol/L,11,C0201975,Creatinine measurement
+Creatine kinase (CK),Serum,30–170 U/L,0.5–2.83 mckat/L,11,C0201975,Creatinine measurement
+Creatinine,Serum,"Men: 0.7–1.2 mg/dL
+Men: 0.7–1.2 mg/dL Women: 0.5–1.0mg/dL",Men: 60–110mcmol/L Women: 45–90 mcmol/L,11,C0201975,Creatinine measurement
+Creatine: Females,"Urine, 24 hours",0–100 mg/24 hours,0–763 mmol/24 hours,11,C0201975,Creatinine measurement
+Creatine: Males,"Urine, 24 hours",4–40 mg/24 hours,30–305 mmol/24 hours,11,C0201975,Creatinine measurement
+"Creatinine, weight-based","Urine, 24 hours",15–25 mg/kg/24 hours,133–221 mmol/kg/ 24 hours,11,C0201975,Creatinine measurement
+"Microalbumin, albumin/creatinine ratio","Urine,random",< 20 mcg/mg,< 20 mg/g,11,C0201975,Creatinine measurement
+Carboxyhemoglobin,Plasma,0.5–5%,—,12,C0019029,Hemoglobin concentration result
+Hemoglobin: Females,Blood,12–16 g/dL,120–160 g/L,12,C0019029,Hemoglobin concentration result
+Hemoglobin: Males,Blood,14–17 g/dL,140–170 g/L,12,C0019029,Hemoglobin concentration result
+Hemoglobin A1C,Blood,4.7–8.5%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, adults: Hb A1",Blood,95–98%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, adults: Hb A2",Blood,2–3%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, adults: Hb C",Blood,0%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, adults: Hb F",Blood,0.8–2.0%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, adults: Hb S",Blood,0%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, Hb F in children:",NA,NA,NA,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, Hb F in children: Neonate",Blood,50–80%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, Hb F in children: 1–6 months",Blood,8%,—,12,C0019029,Hemoglobin concentration result
+"Hemoglobin electrophoresis, Hb F in children: > 6 months",Blood,1–2%,—,12,C0019029,Hemoglobin concentration result
+Mean corpuscular hemoglobin (MCH),Blood,28–32 pg,—,12,C0019029,Hemoglobin concentration result
+Mean corpuscularhemoglobin concentration(MCHC),Blood,32–36 g/dL,320–360 g/L,12,C0019029,Hemoglobin concentration result
+Methemoglobin,Blood,< 1.0%,—,12,C0019029,Hemoglobin concentration result
+Sperm concentration,Semen,20–150 x 10^6/mL,20–150 x 10^9/L,12,C0019029,Hemoglobin concentration result
+Complement: C3,Serum,90–180 mg/dL,0.9–1.8 g/L,14,C0523744,Lipids measurement
+Complement: C4,Serum,10–40 mg/dL,0.10–0.40 g/L,14,C0523744,Lipids measurement
+"Cholesterol, desirable level: High-density lipoprotein(HDL-C)",Plasma,≥ 40 mg/dL,≥ 1.04 mmol/L,15,C0202117,Low density lipoprotein cholesterol measurement
+"Cholesterol, desirable level: Low-density lipoprotein (LDL-C)",Plasma,≤ 130 mg/dL,≤ 3.36 mmol/L,15,C0202117,Low density lipoprotein cholesterol measurement
+"Microalbumin, albumin/creatinine ratio","Urine,random",< 20 mcg/mg,< 20 mg/g,16,C0584615,Urine microalbumin/creatinine ratio measurement
+Albumin,Serum,3.5–5.4 g/dL,35–54 g/L ,17,C0201838,Albumin measurement
+Prealbumin (transthyretin),Serum,18–45 mg/dL,180–450 mg/L,17,C0201838,Albumin measurement
+Microalbumin,"Urine, 24 hours",< 30 mg/24 hours,—,17,C0201838,Albumin measurement
+"Microalbumin, albumin/creatinine ratio","Urine,random",< 20 mcg/mg,< 20 mg/g,17,C0201838,Albumin measurement
+Cortisol: After overnightsuppression test,Serum,< 5 mcg/dL,< 138 nmol/L,19,C2239291,sugars (lab test)
+Lactose tolerance test,Plasma,> 15 mg/dL increasein plasma glucoselevel,> 0.83 mmol/Lincrease inplasmaglucose level,19,C2239291,sugars (lab test)
+Osmotic fragility test,Blood,Increased fragility ifhemolysis occurs in >0.5% sodium chloride,—,19,C2239291,sugars (lab test)
+Microalbumin,"Urine, 24 hours",< 30 mg/24 hours,—,20,C0740086,Microalbuminuria measurement
+"Microalbumin, albumin/creatinine ratio","Urine,random",< 20 mcg/mg,< 20 mg/g,20,C0740086,Microalbuminuria measurement
+Prealbumin (transthyretin),Serum,18–45 mg/dL,180–450 mg/L,24,C0564622,Urine microalbumin positive
+Microalbumin,"Urine, 24 hours",< 30 mg/24 hours,—,24,C0564622,Urine microalbumin positive
+"Microalbumin, albumin/creatinine ratio","Urine,random",< 20 mcg/mg,< 20 mg/g,24,C0564622,Urine microalbumin positive
+"Acetylcholinesterase (AChE), red blood cells",Blood,26.7–49.2 U/g Hb,10^6 U/mol Hb,25,C0427861,Human cells
+"Blood volumes (radioisotope labeling): Red blood cells, females*",Blood,20–30 mL/kg body wt/25–35 mL/kg body wt,0.02–0.03 L/kg body wt,25,C0427861,Human cells
+"Blood volumes (radioisotope labeling): Red blood cells, males*",Blood,25–35 mL/kg body wt,0.025–0.035 L/kg body wt,25,C0427861,Human cells
+CD4+ T-cell count,Blood,640–1175/mcL,0.64–1.18 x 10^9/L,25,C0427861,Human cells
+CD8+ T-cell count,Blood,335–875/mcL,0.34–0.88 x 10^9/L,25,C0427861,Human cells
+Folate (folic acid): Red blood cells,Blood,160–855 ng/mL,362–1937 nmol/L,25,C0427861,Human cells
+"Hemoglobin electrophoresis, Hb F in children:",NA,NA,NA,25,C0427861,Human cells
+"Hemoglobin electrophoresis, Hb F in children: Neonate",Blood,50–80%,—,25,C0427861,Human cells
+"Hemoglobin electrophoresis, Hb F in children: 1–6 months",Blood,8%,—,25,C0427861,Human cells
+"Hemoglobin electrophoresis, Hb F in children: > 6 months",Blood,1–2%,—,25,C0427861,Human cells
+"Human chorionicgonadotropin (hCG),quantitative",Serum,< 5 mIU/mL,< 5 IU/L,25,C0427861,Human cells
+Manganese,Serum,0.3–0.9 ng/mL,5.5–16.4 nmol/L,25,C0427861,Human cells
+Mean corpuscular hemoglobin (MCH),Blood,28–32 pg,—,25,C0427861,Human cells
+Mean corpuscularhemoglobin concentration(MCHC),Blood,32–36 g/dL,320–360 g/L,25,C0427861,Human cells
+Mean corpuscular volume(MCV),Blood,80–100 fL,—,25,C0427861,Human cells
+Protein C activity,Plasma,67–131%,—,25,C0427861,Human cells
+"Protein C resistance,activated ratio (APC-R)",Plasma,2.2–2.6,—,25,C0427861,Human cells
+Red blood cell count,Blood,4.2–5.9 x 106 cells/mcL,4.2–5.9 x 10^12 cells/L,25,C0427861,Human cells
+"Red blood cell survival rate, using 51Cr",Blood,T1/2 = 28 days,—,25,C0427861,Human cells
+"Rheumatoid factor (RF), by nephelometry",Serum,< 20 IU/mL,< 20 kIU/L,25,C0427861,Human cells
+Vitamin C (ascorbic acid):,NA,NA,NA,25,C0427861,Human cells
+Vitamin C (ascorbic acid): Leukocyte,Blood,< 20 mg/dL,< 1136 mcmol/L,25,C0427861,Human cells
+Vitamin C (ascorbic acid): Total,Blood,0.4–1.5 mg/dL,23–85 mcmol/L,25,C0427861,Human cells
+White blood cell count,Blood,4.5–11 x 10^3 cells/mcL,4.5–11 x 10^9 cells/L,25,C0427861,Human cells
+Cell count,NA,0–5 lymphocytes/mcL,0–5 x 10^6 lymphocytes/L,25,C0427861,Human cells
+Vanillylmandelic acid (VMA),"Urine, 24 hours",> 14 years old: < 8 mg/24 hours,< 40.4 mol/24 hours,25,C0427861,Human cells
+"Cholesterol, desirable level: High-density lipoprotein(HDL-C)",Plasma,≥ 40 mg/dL,≥ 1.04 mmol/L,26,C0428529,Fructosamine level
+"Cholesterol, desirable level: Low-density lipoprotein (LDL-C)",Plasma,≤ 130 mg/dL,≤ 3.36 mmol/L,26,C0428529,Fructosamine level
+D-Xylose level 2 hours after ingestion of 25 g of D-xylose,Serum,> 20 mg/dL,> 1.3 nmol/L,26,C0428529,Fructosamine level
+Fructosamine (glycated protein),Plasma,200–285 mcmol/L,200-285 mcmol/L,26,C0428529,Fructosamine level
+"Catecholamines, total","Urine, 24 hours",< 100 mcg/m2/24 hours,< 591 nmol/m2/24 hours,26,C0428529,Fructosamine level
+Alkaline phosphatase (ALP),Serum,36–150 U/L,0.5–2.5 mckat/L,29,C0262923,Urine protein test
+Alpha fetoprotein (AFP),Serum,< 20 ng/mL,< 20 mcg/L,29,C0262923,Urine protein test
+"Apolipoproteins: A-I, females",Serum,98–210 mg/dL,0.98–2.1 g/L,29,C0262923,Urine protein test
+"Apolipoproteins: A-I, males",Serum,88–180 mg/dL,0.88–1.8 g/L,29,C0262923,Urine protein test
+"Apolipoproteins: B-100, females",Serum,44–148 mg/dL,0.44–1.48 g/L,29,C0262923,Urine protein test
+"Apolipoproteins:B-100, males",Serum,55–151 mg/dL,0.55–1.51 g/L,29,C0262923,Urine protein test
+"Cholesterol, desirable level: High-density lipoprotein(HDL-C)",Plasma,≥ 40 mg/dL,≥ 1.04 mmol/L,29,C0262923,Urine protein test
+"Cholesterol, desirable level: Low-density lipoprotein (LDL-C)",Plasma,≤ 130 mg/dL,≤ 3.36 mmol/L,29,C0262923,Urine protein test
+Cortisol: After overnightsuppression test,Serum,< 5 mcg/dL,< 138 nmol/L,29,C0262923,Urine protein test
+C-reactive protein (CRP),Serum,< 0.8 mg/dL,< 8.0 mg/L,29,C0262923,Urine protein test
+"C-reactive protein, highly sensitive (hsCRP)",Serum,< 0.2 mg/dL,< 2.0 mg/L,29,C0262923,Urine protein test
+"Fetoprotein, Alpha (AFP)",Serum,< 8.4 ng/mL,< 8.4 mcg/L,29,C0262923,Urine protein test
+Fructosamine (glycated protein),Plasma,200–285 mcmol/L,200-285 mcmol/L,29,C0262923,Urine protein test
+Lactose tolerance test,Plasma,> 15 mg/dL increasein plasma glucoselevel,> 0.83 mmol/Lincrease inplasmaglucose level,29,C0262923,Urine protein test
+Lipoprotein (a) [Lp(a)],Serum,≤ 10 mg/dL,< 13nmol/L,29,C0262923,Urine protein test
+Osmotic fragility test,Blood,Increased fragility ifhemolysis occurs in >0.5% sodium chloride,—,29,C0262923,Urine protein test
+Protein C activity,Plasma,67–131%,—,29,C0262923,Urine protein test
+"Protein C resistance,activated ratio (APC-R)",Plasma,2.2–2.6,—,29,C0262923,Urine protein test
+Protein S activity,Plasma,82–144%,—,29,C0262923,Urine protein test
+"Protein, total",Serum,6–7.8 g/dL,60–78 g/L,29,C0262923,Urine protein test
+Myelin basic protein,NA,< 1.5 ng/mL,< 1.5 mcg/L,29,C0262923,Urine protein test
+"Protein,total",NA,15–60 mg/dL,150–600 mg/L,29,C0262923,Urine protein test
+"Protein, total","Urine, 24 hours", < 100 mg/24 hours,—,29,C0262923,Urine protein test
+"Urinalysis, routine pH","Urine,random",5–7,—,29,C0262923,Urine protein test
+"Urinalysis, routine, dipsticktesting†: Protein","Urine,random",Negative,—,29,C0262923,Urine protein test
+Carcinoembryonic antigen(CEA),Serum,< 3 ng/mL,< 3 mcg/L,30,C0201933,Carcinoembryonic antigen measurement
+"Apolipoproteins: A-I, females",Serum,98–210 mg/dL,0.98–2.1 g/L,31,C0392885,High density lipoprotein measurement
+"Apolipoproteins: A-I, males",Serum,88–180 mg/dL,0.88–1.8 g/L,31,C0392885,High density lipoprotein measurement
+"Apolipoproteins: B-100, females",Serum,44–148 mg/dL,0.44–1.48 g/L,31,C0392885,High density lipoprotein measurement
+"Apolipoproteins:B-100, males",Serum,55–151 mg/dL,0.55–1.51 g/L,31,C0392885,High density lipoprotein measurement
+"Cholesterol, desirable level: High-density lipoprotein(HDL-C)",Plasma,≥ 40 mg/dL,≥ 1.04 mmol/L,31,C0392885,High density lipoprotein measurement
+"Cholesterol, desirable level: Low-density lipoprotein (LDL-C)",Plasma,≤ 130 mg/dL,≤ 3.36 mmol/L,31,C0392885,High density lipoprotein measurement
+Lipoprotein (a) [Lp(a)],Serum,≤ 10 mg/dL,< 13nmol/L,31,C0392885,High density lipoprotein measurement
+Aldosterone: Standing,Serum,7–20 ng/dL,194–554 pmol/L,32,C0770761,Wright staining
+Antidiuretic hormone(ADH; arginine vasopressin),Plasma,< 1.7 pg/mL,< 1.57 pmol/L,32,C0770761,Wright staining
+Cortisol: After overnightsuppression test,Serum,< 5 mcg/dL,< 138 nmol/L,32,C0770761,Wright staining
+Creatinine,Serum,"Men: 0.7–1.2 mg/dL
+Men: 0.7–1.2 mg/dL Women: 0.5–1.0mg/dL",Men: 60–110mcmol/L Women: 45–90 mcmol/L,32,C0770761,Wright staining
+"Renin activity, plasma (PRA), upright, in males and females aged 18–39 years: Sodium-depleted",Plasma,2.9–24 ng/mL/hour,2.9–24 mcg/L/hour,32,C0770761,Wright staining
+"Renin activity, plasma (PRA), upright, in males and females aged 18–39 years: Sodium-repleted",Plasma,0.6 (or lower)–4.3 ng/mL/hour,0.6 (or lower)–4.3 mcg/L/hour,32,C0770761,Wright staining
+Weight,NA,< 200 g/day,—,32,C0770761,Wright staining
+"Creatinine, weight-based","Urine, 24 hours",15–25 mg/kg/24 hours,133–221 mmol/kg/ 24 hours,32,C0770761,Wright staining
+"Microalbumin, albumin/creatinine ratio","Urine,random",< 20 mcg/mg,< 20 mg/g,32,C0770761,Wright staining
+C-peptide,Serum,0.9–4.3 ng/mL,297–1419 pmol/L,33,C0202100,Insulin C-peptide measurement
+Transferrin,Serum,200–360 mg/dL,2.0–3.6 g/L,34,C0428545,Serum transferrin measurement
+Transferrin saturation,Serum,20–50%,—,34,C0428545,Serum transferrin measurement
+Fructosamine (glycated protein),Plasma,200–285 mcmol/L,200-285 mcmol/L,35,C0391940,Fructose measurement
+Lactose tolerance test,Plasma,> 15 mg/dL increasein plasma glucoselevel,> 0.83 mmol/Lincrease inplasmaglucose level,35,C0391940,Fructose measurement
+Anti–smooth muscle antibodies (ASMA) titer,Serum,≤ 1:80,—,37,C1141895,Muscle enzyme
+"Follicle-stimulating hormone (FSH), females: Midcycle peak",Serum,30–50 mU/mL,30–50 U/L,37,C1141895,Muscle enzyme
+"Luteinizing hormone (LH), females: Midcycle peak",Serum,30–250 mU/mL,30–250 U/L,37,C1141895,Muscle enzyme
+Transferrin saturation,Serum,20–50%,—,38,C0428175,Arterial oxygen saturation measurement
+C-reactive protein (CRP),Serum,< 0.8 mg/dL,< 8.0 mg/L,40,C2188771,urine protein detection (lab test)
+Transferrin saturation,Serum,20–50%,—,41,C1304794,Arterial oxygen saturation finding
+Antineutrophil cytoplasmic antibodies (cANCA),Serum,Negative,—,42,C0344386,Schistocytosis
+Erythrocyte sedimentation rate (ESR): Females,Blood,0–20 mm/hour,0–20 mm/hour,42,C0344386,Schistocytosis
+Erythrocyte sedimentation rate (ESR): Males,Blood,0–15 mm/hour,0–20 mm/hour,42,C0344386,Schistocytosis
+Leukocyte alkalinephosphatase (LAP) score,Peripheralbloodsmear,13–130/100/polymorphonuclear(PMN) leukocyteneutrophils andbands,—,42,C0344386,Schistocytosis
+Reticulocyte count: Percentage,Blood,0.5–1.5%,—,42,C0344386,Schistocytosis
+Reticulocyte count: Absolute,Blood,23–90 x 103/mcL,23–90 x 109/L,42,C0344386,Schistocytosis
+Vitamin C (ascorbic acid): Leukocyte,Blood,< 20 mg/dL,< 1136 mcmol/L,42,C0344386,Schistocytosis
+Lymphocytes,NA,0.77–4.5 x 10^3 cells/mcL,0.77–4.5 x 10^9 cells/L,42,C0344386,Schistocytosis
+Monocytes,NA,0.14–1.3 x 10^3 cells/mcL,0.14–1.3 x 10^9 cells/L,42,C0344386,Schistocytosis
+"Urinalysis, routine, dipsticktesting†: Leukocyte esterase","Urine,random",Negative,—,42,C0344386,Schistocytosis
+Transferrin,Serum,200–360 mg/dL,2.0–3.6 g/L,44,C1318186,Serum transferrin level result
+Transferrin saturation,Serum,20–50%,—,44,C1318186,Serum transferrin level result
+Alpha fetoprotein (AFP),Serum,< 20 ng/mL,< 20 mcg/L,46,C2698168,Apolipoprotein A1 Measurement
+"Apolipoproteins: A-I, females",Serum,98–210 mg/dL,0.98–2.1 g/L,46,C2698168,Apolipoprotein A1 Measurement
+"Apolipoproteins: A-I, males",Serum,88–180 mg/dL,0.88–1.8 g/L,46,C2698168,Apolipoprotein A1 Measurement
+"Apolipoproteins: B-100, females",Serum,44–148 mg/dL,0.44–1.48 g/L,46,C2698168,Apolipoprotein A1 Measurement
+"Apolipoproteins:B-100, males",Serum,55–151 mg/dL,0.55–1.51 g/L,46,C2698168,Apolipoprotein A1 Measurement
+"Cholesterol, desirable level: High-density lipoprotein(HDL-C)",Plasma,≥ 40 mg/dL,≥ 1.04 mmol/L,46,C2698168,Apolipoprotein A1 Measurement
+"Cholesterol, desirable level: Low-density lipoprotein (LDL-C)",Plasma,≤ 130 mg/dL,≤ 3.36 mmol/L,46,C2698168,Apolipoprotein A1 Measurement
+Lipoprotein (a) [Lp(a)],Serum,≤ 10 mg/dL,< 13nmol/L,46,C2698168,Apolipoprotein A1 Measurement

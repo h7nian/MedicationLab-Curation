@@ -1,0 +1,52 @@
+---
+title: "KESERMS"
+author: "张思念"
+date: "2023-04-26"
+output: html_document
+---
+
+## Import Library
+
+```{r}
+library(openxlsx)
+library(readr)
+library(RMySQL)
+library(stringr)
+```
+
+## Read File
+
+```{r}
+MSMedication = read.csv("/Users/sinianzhang/Downloads/Multiple sclerosis.csv")
+
+MSMedication = MSMedication[which(MSMedication$category %in% c("Drug Codified","Drug NLP","Chemicals & Drugs NLPS")),]
+
+MSMedication = unique(MSMedication$to)
+```
+
+## Mapping String
+```{r}
+con <- dbConnect(MySQL(), dbname = 'umls', host = "localhost", port = 3306, user = "root", password = "Zhangsinian976")
+Results = NULL
+for(code in MSMedication)
+{
+  if(str_extract(code, "[A-Za-z]+")=="C")
+  {
+    cui = code
+    command = paste0("select cui,str from mrconso where lat = ","'ENG'"," and cui=","'",cui,"'")
+  } else {
+    rxcui = gsub("[^0-9]", "",code)
+    command = paste0("select rxcui,str from rxnconso where lat = ","'ENG'"," and rxcui=","'",rxcui,"'")
+  }
+  result.temp = dbGetQuery(con, command)
+  colnames(result.temp) = c("code","str")
+  Results = rbind(Results,result.temp)
+}
+dbDisconnect(con)
+rownames(Results) = NULL
+Results
+```
+
+```{r}
+write_csv(Results,file=paste0("/Users/sinianzhang/Downloads","/KESERMSMedication.csv"))
+```
